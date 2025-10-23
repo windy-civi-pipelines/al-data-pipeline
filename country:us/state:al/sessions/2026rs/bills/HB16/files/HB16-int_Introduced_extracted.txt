@@ -1,0 +1,259 @@
+Title: 6 Secretary of State must notify a person in violation of
+Official Title: 6 Secretary of State must notify a person in violation of
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB16 INTRODUCED
+1 HB16
+2 V7THIPP-1
+3 By Representative Lamb
+4 RFD: Ethics and Campaign Finance
+5 First Read: 13-Jan-26
+6 PFD: 25-Jun-25
+Page 0
+PFD: 25-Jun-25
+V7THIPP-1 05/15/2025 PMG (L)cr 2025-1964
+1
+2
+3
+4 SYNOPSIS:
+5 Under the Fair Campaign Practices Act, the
+7 the act by certified mail, even when the amount of
+8 civil penalties being imposed exceeds the cost of
+9 mailing the notice.
+10 This bill would authorize the Secretary of State
+11 to impose civil penalties by notifying the person via
+12 email and limiting certified mail notice to those
+13 penalties imposed that exceed the cost of sending by
+14 certified mail.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to the Fair Campaign Practices Act; to amend
+22 Section 17-5-19.1, Code of Alabama 1975, to authorize the
+23 Secretary of State to provide electronic notice of imposed
+24 civil penalties in certain circumstances.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 17-5-19.1, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§17-5-19.1
+Page 1
+"§17-5-19.1
+HB16 INTRODUCED
+29 (a) The Secretary of State shall levy a civil penalty
+30 against any person who fails to timely file a report required
+31 by this chapter and who does not remedy the filing of the
+32 report pursuant to subsection (h). The State Ethics Commission
+33 may levy an administrative penalty against any person who
+34 files a materially inaccurate report required by this chapter
+35 and who does not remedy the filing of the report pursuant to
+36 subsection (g).
+37 (b) The schedule of civil penalties shall be as
+38 follows:
+39 (1) The lesser of three hundred dollars ($300) or 10
+40 percent of the amount of contributions or expenditures not
+41 properly reported for a first offense in an election cycle.
+42 (2) The lesser of six hundred dollars ($600) or 15
+43 percent of the amount of contributions or expenditures not
+44 properly reported for a second offense in an election cycle.
+45 (3) The lesser of one thousand two hundred dollars
+46 ($1,200) or 20 percent of the amount of contributions or
+47 expenditures not properly reported for a third or subsequent
+48 offense in an election cycle.
+49 (c) A fourth failure to timely or accurately file a
+50 report in an election cycle shall create a rebuttable
+51 presumption of intent to violate the reporting requirements of
+52 this chapter. The Secretary of State shall notify the Attorney
+53 General and the appropriate district attorney of all persons
+54 who violate the filing requirements four or more times in an
+55 election cycle.
+56 (d) Upon imposition of a civil penalty pursuant to this
+Page 2
+(d) Upon imposition of a civil penalty pursuant to this
+HB16 INTRODUCED
+57 section, the Secretary of State shall send the person upon
+58 whom the penalty is being imposed proper notification by
+59 certified mail of the imposition of the penalty. If an
+60 electronic mail to the email address is on file with the
+61 Secretary of State, the Secretary of State shall also provide
+62 notification by electronic mailfiled with the statement
+63 showing the political action committee pursuant to Section
+64 17-5-3 or principal campaign committee pursuant to Section
+65 17-5-4, which shall be kept current by the committee. In the
+66 event an imposed penalty exceeds the cost of certified mail,
+67 proper notification must additionally be sent via certified
+68 mail to the address filed with the statement showing the
+69 political action committee or the principal campaign
+70 committee, which shall also be kept current by the committee.
+71 (e) Civil penalties levied shall be paid to the
+72 Secretary of State within 45 days of the finality of any
+73 review. The Secretary of State, through his or her attorney,
+74 may institute proceedings to recover any penalties ordered
+75 pursuant to this section that are not paid by, or on behalf
+76 of, the person against whom they are levied and may collect
+77 necessary fees and costs associated with the collection
+78 action.
+79 (f) All penalties collected by the Secretary of State
+80 shall be distributed to the State General Fund.
+81 (g) A person who voluntarily files an amended report to
+82 correct an error in an otherwise timely filed report without
+83 being prompted by the Secretary of State shall not have
+84 committed an offense or be subjected to a civil penalty under
+Page 3
+committed an offense or be subjected to a civil penalty under
+HB16 INTRODUCED
+85 this section, so long as, in the case of a candidate, the
+86 corrected report is filed prior to the election at issue, and
+87 so long as, in the case of a political action committee, the
+88 corrected report is filed prior to the close of the calendar
+89 year.
+90 (h) Failure to file a timely report shall not be
+91 considered an offense or subjected to a civil penalty pursuant
+92 to subsection (a) so long as it is the first failure by that
+93 candidate or political action committee for the election cycle
+94 and the report is filed within 48 hours of the time it was
+95 due.
+96 (i) Any penalties assessed pursuant to this section may
+97 be paid with campaign funds."
+98 Section 2. This act shall become effective on October
+99 1, 2026.
+Page 4
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+HB16 INTRODUCED
+1 HB16
+2 V7THIPP-1
+3 By Representative Lamb
+4 RFD: Ethics and Campaign Finance
+5 First Read: 13-Jan-26
+6 PFD: 25-Jun-25
+Page 0
+
+PFD: 25-Jun-25
+V7THIPP-1 05/15/2025 PMG (L)cr 2025-1964
+1
+2
+3
+4 SYNOPSIS:
+5 Under the Fair Campaign Practices Act, the
+6 Secretary of State must notify a person in violation of
+7 the act by certified mail, even when the amount of
+8 civil penalties being imposed exceeds the cost of
+9 mailing the notice.
+10 This bill would authorize the Secretary of State
+11 to impose civil penalties by notifying the person via
+12 email and limiting certified mail notice to those
+13 penalties imposed that exceed the cost of sending by
+14 certified mail.
+15
+16
+17 A BILL
+18 TO BE ENTITLED
+19 AN ACT
+20
+21 Relating to the Fair Campaign Practices Act; to amend
+22 Section 17-5-19.1, Code of Alabama 1975, to authorize the
+23 Secretary of State to provide electronic notice of imposed
+24 civil penalties in certain circumstances.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 17-5-19.1, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§17-5-19.1
+Page 1
+
+"§17-5-19.1
+HB16 INTRODUCED
+29 (a) The Secretary of State shall levy a civil penalty
+30 against any person who fails to timely file a report required
+31 by this chapter and who does not remedy the filing of the
+32 report pursuant to subsection (h). The State Ethics Commission
+33 may levy an administrative penalty against any person who
+34 files a materially inaccurate report required by this chapter
+35 and who does not remedy the filing of the report pursuant to
+36 subsection (g).
+37 (b) The schedule of civil penalties shall be as
+38 follows:
+39 (1) The lesser of three hundred dollars ($300) or 10
+40 percent of the amount of contributions or expenditures not
+41 properly reported for a first offense in an election cycle.
+42 (2) The lesser of six hundred dollars ($600) or 15
+43 percent of the amount of contributions or expenditures not
+44 properly reported for a second offense in an election cycle.
+45 (3) The lesser of one thousand two hundred dollars
+46 ($1,200) or 20 percent of the amount of contributions or
+47 expenditures not properly reported for a third or subsequent
+48 offense in an election cycle.
+49 (c) A fourth failure to timely or accurately file a
+50 report in an election cycle shall create a rebuttable
+51 presumption of intent to violate the reporting requirements of
+52 this chapter. The Secretary of State shall notify the Attorney
+53 General and the appropriate district attorney of all persons
+54 who violate the filing requirements four or more times in an
+55 election cycle.
+56 (d) Upon imposition of a civil penalty pursuant to this
+Page 2
+
+(d) Upon imposition of a civil penalty pursuant to this
+HB16 INTRODUCED
+57 section, the Secretary of State shall send the person upon
+58 whom the penalty is being imposed proper notification by
+59 certified mail of the imposition of the penalty. If an
+60 electronic mail to the email address is on file with the
+61 Secretary of State, the Secretary of State shall also provide
+62 notification by electronic mailfiled with the statement
+63 showing the political action committee pursuant to Section
+64 17-5-3 or principal campaign committee pursuant to Section
+65 17-5-4, which shall be kept current by the committee. In the
+66 event an imposed penalty exceeds the cost of certified mail,
+67 proper notification must additionally be sent via certified
+68 mail to the address filed with the statement showing the
+69 political action committee or the principal campaign
+70 committee, which shall also be kept current by the committee.
+71 (e) Civil penalties levied shall be paid to the
+72 Secretary of State within 45 days of the finality of any
+73 review. The Secretary of State, through his or her attorney,
+74 may institute proceedings to recover any penalties ordered
+75 pursuant to this section that are not paid by, or on behalf
+76 of, the person against whom they are levied and may collect
+77 necessary fees and costs associated with the collection
+78 action.
+79 (f) All penalties collected by the Secretary of State
+80 shall be distributed to the State General Fund.
+81 (g) A person who voluntarily files an amended report to
+82 correct an error in an otherwise timely filed report without
+83 being prompted by the Secretary of State shall not have
+84 committed an offense or be subjected to a civil penalty under
+Page 3
+
+committed an offense or be subjected to a civil penalty under
+HB16 INTRODUCED
+85 this section, so long as, in the case of a candidate, the
+86 corrected report is filed prior to the election at issue, and
+87 so long as, in the case of a political action committee, the
+88 corrected report is filed prior to the close of the calendar
+89 year.
+90 (h) Failure to file a timely report shall not be
+91 considered an offense or subjected to a civil penalty pursuant
+92 to subsection (a) so long as it is the first failure by that
+93 candidate or political action committee for the election cycle
+94 and the report is filed within 48 hours of the time it was
+95 due.
+96 (i) Any penalties assessed pursuant to this section may
+97 be paid with campaign funds."
+98 Section 2. This act shall become effective on October
+99 1, 2026.
+Page 4
+
+[DELETED: 6I]

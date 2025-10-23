@@ -1,0 +1,245 @@
+Title: 5 This bill would establish a state income tax
+Official Title: 5 This bill would establish a state income tax
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB28 INTRODUCED
+1 HB28
+2 RBVX1MN-1
+3 By Representative Brown
+4 RFD: Ways and Means Education
+5 First Read: 13-Jan-26
+6 PFD: 11-Aug-25
+Page 0
+PFD: 11-Aug-25
+RBVX1MN-1 07/15/2025 MF (F)MF 2025-2268
+1
+2
+3
+4 SYNOPSIS:
+6 credit for restaurants that recycle oyster shells.
+7
+8
+9 A BILL
+10 TO BE ENTITLED
+11 AN ACT
+12
+13 Relating to income tax; to establish a tax credit for
+14 restaurants that recycle oyster shells.
+15 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+16 Section 1. The Legislature finds and declares that
+17 oyster shell material is a beneficial natural resource for
+18 local water quality, aquatic habitats, and the protection of
+19 the coastline of this state. An income tax credit for
+20 restaurants that participate in approved oyster recycling
+21 programs would incentivize the facilitation of more of this
+22 resource to the benefit of the state.
+23 Section 2. (a) For purposes of this section, the
+24 following terms have the following meanings:
+25 (1) DEPARTMENT. The Alabama Department of Revenue.
+26 (2) INCOME TAX. The tax imposed by Chapter 18 of Title
+27 40, Code of Alabama 1975.
+28 (3) OYSTER SHELL RECYCLING PROGRAM. The Oyster Shell
+Page 1
+(3) OYSTER SHELL RECYCLING PROGRAM. The Oyster Shell
+HB28 INTRODUCED
+29 Recycling Program or any other oyster shell recycling program
+30 or activity designated by rule by the Alabama Department of
+31 Revenue as an approved program or activity.
+32 (4) RESTAURANT. A facility that prepares and sells food
+33 directly to consumers for immediate consumption.
+34 (b)(1) A restaurant that donates oyster shell material
+35 to an oyster shell recycling program may claim a credit
+36 against the state income tax liability as provided by this
+37 section. The amount of the credit shall equal the lesser of:
+38 a. One dollar ($1) for every 50 pounds of oyster shell
+39 material donated to a qualifying oyster shell recycling
+40 program or activity during the tax year; or
+41 b. Two thousand dollars ($2,000).
+42 (2) The total amount of credits granted shall not
+43 exceed one hundred thousand dollars ($100,000) per calendar
+44 year.
+45 (3) a. The granting of tax credits authorized by this
+46 section shall be on a first-come, first-served basis.
+47 b. The department, by rule, shall provide for any
+48 credits not granted due to the cap provided in subdivision (2)
+49 to receive first priority in the subsequent tax year.
+50 (c) If the amount of the credit exceeds the amount of
+51 the taxpayer's tax liability for the taxable year, the excess
+52 tax credit amount shall constitute an overpayment as defined
+53 in Section 40-18-79, Code of Alabama 1975, and the department
+54 shall refund the overpayment from the collections of the taxes
+55 imposed.
+56 (d) No tax credit provided by this section may be
+Page 2
+(d) No tax credit provided by this section may be
+HB28 INTRODUCED
+57 transferred or sold to another taxpayer.
+58 (e) Any taxpayer claiming the credit shall maintain all
+59 records necessary to verify his or her eligibility for the
+60 credit and for the amount of credit claimed. Upon request, a
+61 taxpayer shall submit to the department any records required
+62 to be maintained by this section in connection with the filing
+63 of the income tax return.
+64 (f) The credit authorized in this section may be
+65 claimed by corporations, individuals, and other entities in
+66 accordance with the following provisions:
+67 (1) An entity taxed as a corporation for Alabama income
+68 tax purposes shall claim any credit authorized by this section
+69 on its corporation income tax return.
+70 (2) An individual shall claim any credit authorized by
+71 this section on its income tax return.
+72 (3) An entity that is not taxed as a corporation shall
+73 claim any credit authorized by this section on the returns of
+74 the partners or members in accordance with the following
+75 requirements:
+76 a. Corporate partners or members shall claim their
+77 share of the credit, respectively, on their corporation income
+78 tax returns.
+79 b. Individual partners or members shall claim their
+80 share of the credit, respectively, on their individual income
+81 tax returns.
+82 (g) The department shall adopt rules to implement the
+83 provisions of this section. The department shall engage and
+84 collaborate with the Commissioner of the Department of
+Page 3
+collaborate with the Commissioner of the Department of
+HB28 INTRODUCED
+85 Conservation and Natural Resources and may incorporate
+86 recommendations of the commissioner in any rules designating
+87 oyster shell recycling programs and activities.
+88 (h) The tax credit allowed under this section may be
+89 claimed beginning with the 2026 tax year and may not be
+90 claimed for tax years after the 2030 tax year.
+91 Section 3. This act shall become effective on June 1,
+92 2026.
+Page 4
+[DELETED: 8I]
+
+
+================================================================================
+
+Raw Text:
+HB28 INTRODUCED
+1 HB28
+2 RBVX1MN-1
+3 By Representative Brown
+4 RFD: Ways and Means Education
+5 First Read: 13-Jan-26
+6 PFD: 11-Aug-25
+Page 0
+
+PFD: 11-Aug-25
+RBVX1MN-1 07/15/2025 MF (F)MF 2025-2268
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would establish a state income tax
+6 credit for restaurants that recycle oyster shells.
+7
+8
+9 A BILL
+10 TO BE ENTITLED
+11 AN ACT
+12
+13 Relating to income tax; to establish a tax credit for
+14 restaurants that recycle oyster shells.
+15 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+16 Section 1. The Legislature finds and declares that
+17 oyster shell material is a beneficial natural resource for
+18 local water quality, aquatic habitats, and the protection of
+19 the coastline of this state. An income tax credit for
+20 restaurants that participate in approved oyster recycling
+21 programs would incentivize the facilitation of more of this
+22 resource to the benefit of the state.
+23 Section 2. (a) For purposes of this section, the
+24 following terms have the following meanings:
+25 (1) DEPARTMENT. The Alabama Department of Revenue.
+26 (2) INCOME TAX. The tax imposed by Chapter 18 of Title
+27 40, Code of Alabama 1975.
+28 (3) OYSTER SHELL RECYCLING PROGRAM. The Oyster Shell
+Page 1
+
+(3) OYSTER SHELL RECYCLING PROGRAM. The Oyster Shell
+HB28 INTRODUCED
+29 Recycling Program or any other oyster shell recycling program
+30 or activity designated by rule by the Alabama Department of
+31 Revenue as an approved program or activity.
+32 (4) RESTAURANT. A facility that prepares and sells food
+33 directly to consumers for immediate consumption.
+34 (b)(1) A restaurant that donates oyster shell material
+35 to an oyster shell recycling program may claim a credit
+36 against the state income tax liability as provided by this
+37 section. The amount of the credit shall equal the lesser of:
+38 a. One dollar ($1) for every 50 pounds of oyster shell
+39 material donated to a qualifying oyster shell recycling
+40 program or activity during the tax year; or
+41 b. Two thousand dollars ($2,000).
+42 (2) The total amount of credits granted shall not
+43 exceed one hundred thousand dollars ($100,000) per calendar
+44 year.
+45 (3) a. The granting of tax credits authorized by this
+46 section shall be on a first-come, first-served basis.
+47 b. The department, by rule, shall provide for any
+48 credits not granted due to the cap provided in subdivision (2)
+49 to receive first priority in the subsequent tax year.
+50 (c) If the amount of the credit exceeds the amount of
+51 the taxpayer's tax liability for the taxable year, the excess
+52 tax credit amount shall constitute an overpayment as defined
+53 in Section 40-18-79, Code of Alabama 1975, and the department
+54 shall refund the overpayment from the collections of the taxes
+55 imposed.
+56 (d) No tax credit provided by this section may be
+Page 2
+
+(d) No tax credit provided by this section may be
+HB28 INTRODUCED
+57 transferred or sold to another taxpayer.
+58 (e) Any taxpayer claiming the credit shall maintain all
+59 records necessary to verify his or her eligibility for the
+60 credit and for the amount of credit claimed. Upon request, a
+61 taxpayer shall submit to the department any records required
+62 to be maintained by this section in connection with the filing
+63 of the income tax return.
+64 (f) The credit authorized in this section may be
+65 claimed by corporations, individuals, and other entities in
+66 accordance with the following provisions:
+67 (1) An entity taxed as a corporation for Alabama income
+68 tax purposes shall claim any credit authorized by this section
+69 on its corporation income tax return.
+70 (2) An individual shall claim any credit authorized by
+71 this section on its income tax return.
+72 (3) An entity that is not taxed as a corporation shall
+73 claim any credit authorized by this section on the returns of
+74 the partners or members in accordance with the following
+75 requirements:
+76 a. Corporate partners or members shall claim their
+77 share of the credit, respectively, on their corporation income
+78 tax returns.
+79 b. Individual partners or members shall claim their
+80 share of the credit, respectively, on their individual income
+81 tax returns.
+82 (g) The department shall adopt rules to implement the
+83 provisions of this section. The department shall engage and
+84 collaborate with the Commissioner of the Department of
+Page 3
+
+collaborate with the Commissioner of the Department of
+HB28 INTRODUCED
+85 Conservation and Natural Resources and may incorporate
+86 recommendations of the commissioner in any rules designating
+87 oyster shell recycling programs and activities.
+88 (h) The tax credit allowed under this section may be
+89 claimed beginning with the 2026 tax year and may not be
+90 claimed for tax years after the 2030 tax year.
+91 Section 3. This act shall become effective on June 1,
+92 2026.
+Page 4
+
+[DELETED: 8I]

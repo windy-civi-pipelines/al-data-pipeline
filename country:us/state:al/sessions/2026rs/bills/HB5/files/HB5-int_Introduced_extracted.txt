@@ -1,0 +1,1056 @@
+Title: 6 contract, a provider agrees to repair, replace, or
+Official Title: 6 contract, a provider agrees to repair, replace, or
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB5 INTRODUCED
+1 HB5
+2 84UXGFF-1
+3 By Representative McCampbell
+4 RFD: Commerce and Small Business
+5 First Read: 13-Jan-26
+6 PFD: 25-Jun-25
+Page 0
+PFD: 25-Jun-25
+84UXGFF-1 05/12/2025 ZAK (L)ZAK 2025-1898
+1
+2
+3
+4 SYNOPSIS:
+5 Generally, pursuant to the terms of a service
+7 provide a refund for covered property that is
+8 operationally or functionally failing.
+9 This bill would require that when advertising a
+10 service contract, the advertisement must disclose any
+11 right of the provider to refund a contract holder in an
+12 amount less than the provider's cost to repair or
+13 replace covered property.
+14 This bill would further provide for the
+15 limitations, exceptions, and exclusions of service
+16 contracts that must be disclosed.
+17 This bill would further provide for entities
+18 that are exempt from certain service contract
+19 regulations.
+20 This bill would also make nonsubstantive,
+21 technical revisions to update the existing code
+22 language to current style.
+23
+24
+25 A BILL
+26 TO BE ENTITLED
+27 AN ACT
+28
+Page 1
+HB5 INTRODUCED
+29 Relating to service contracts; to amend Sections
+30 8-32-1, 8-32-2, 8-32-3, and 8-32-5, Code of Alabama 1975, to
+31 further provide for entities exempt from certain service
+32 contract regulations; to require certain disclosure when
+33 advertising contracts; to further provide for the limitations,
+34 exceptions, and exclusions of contracts that must be
+35 disclosed; and to make nonsubstantive, technical revisions to
+36 update the existing code language to current style.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Sections 8-32-1, 8-32-2, 8-32-3, and 8-32-5,
+39 Code of Alabama 1975, are amended to read as follows:
+40 "§8-32-1
+41 (a) The purpose of this chapter is to create a
+42 framework to regulate service contracts sold to consumers in
+43 this state.
+44 (b) The following are exempt from Sections 8-32-2 to
+45 8-32-12, inclusive, of this chapter:
+46 (1) Warranties.
+47 (2) Maintenance agreements.
+48 (3) Warranties, service contracts, or maintenance
+49 agreements offered by electric, gas, water, or telephone
+50 utilities or mobile telecommunications service providers on
+51 their transmission devices.
+52 (4) Service contracts sold or offered for sale in
+53 commercial transactions.
+54 (5) Service contracts sold or offered for sale to
+55 persons other than consumers.
+56 (6) Service contracts sold at the point of sale, or
+Page 2
+(6) Service contracts sold at the point of sale, or
+HB5 INTRODUCED
+57 within 60 days of after the original purchase date of the
+58 property, which cover tangible property where the tangible
+59 property for which the service contract is sold, has a
+60 purchase price of two hundred and fifty dollars ($250) or
+61 less, exclusive of sales tax.
+62 (c) Manufacturer's service contracts on the
+63 manufacturer's products and service contracts sold or offered
+64 for sale by Alabama electric cooperatives, and their
+65 subsidiaries and affiliates, including, without limitation,
+66 affiliates managed or controlled by electric cooperatives, are
+67 required to comply only with Section 8-32-3(a), Section
+68 8-32-3(g), Section 8-32-5(a), Section 8-32-5(d) to (n),
+69 inclusive, Section 8-32-6, Section 8-32-10(a), and Section
+70 8-32-10(c) to (f), inclusive, as applicable, of this chapter.
+71 (d) The types of agreements referred to in subsections
+72 (b) and (c) are not insurance for any purpose including,
+73 without limitation, compliance with the Alabama Insurance
+74 Code."
+75 "§8-32-2
+76 As used in this chapter, the following terms shall have
+77 the following meanings:
+78 (1) ADMINISTRATOR. The person designated by a provider
+79 to be responsible for the administration of service contracts
+80 or the service contracts plan or to make the filings required
+81 by this chapter.
+82 (2) COMMISSIONER. The Commissioner of Insurance of this
+83 state.
+84 (3) CONSUMER. A natural person An individual who buys,
+Page 3
+(3) CONSUMER. A natural person An individual who buys,
+HB5 INTRODUCED
+85 primarily for personal, family, or household purposes, and not
+86 for resale, any tangible personal property normally used for
+87 personal, family, or household purposes and not for commercial
+88 or research purposes.
+89 (4) MAINTENANCE AGREEMENT. A contract of limited
+90 duration that provides for scheduled maintenance only.
+91 (5) MANUFACTURER. A person that is one of the
+92 following:
+93 a. A manufacturer or producer of property that sells
+94 the property under its own name or label.
+95 b. A subsidiary of the person who manufactures or
+96 produces the property.
+97 c. A corporation which that owns at least 80 percent of
+98 the person who that manufactures or produces the property.
+99 d. A person who that manufactures or produces the
+100 property even though the property is sold under the trade name
+101 or label of another person.
+102 (6) MECHANICAL BREAKDOWN INSURANCE. For purposes of
+103 this chapter, a policy, contract, or agreement issued by an
+104 authorized insurance company directly to a consumer or other
+105 owner of property that provides for, among other coverages,
+106 the repair, replacement, or maintenance of property or
+107 indemnification for repair, replacement, or maintenance, for
+108 the operational or structural failure of the property due to a
+109 defect in materials or workmanship or due to normal wear and
+110 tear.
+111 (7) NON-ORIGINAL MANUFACTURER'S PARTS. Replacement
+112 parts not made for or by the original manufacturer of the
+Page 4
+parts not made for or by the original manufacturer of the
+HB5 INTRODUCED
+113 property, commonly referred to as "after market parts."
+114 (8) PERSON. An individual, partnership, corporation,
+115 incorporated or unincorporated association, joint stock
+116 company, reciprocal, syndicate, or any other entity, or
+117 combination of persons acting in concert.
+118 (9) PREMIUM. The consideration paid to an insurer for a
+119 reimbursement insurance policy.
+120 (10) PROVIDER. A person who administers, makes,
+121 provides, sells, or offers to sell a service contract, who is
+122 contractually obligated to provide service under a service
+123 contract.
+124 (11) PROVIDER FEE. The total purchase price paid for a
+125 service contract. In cases where a reimbursement insurance
+126 policy is issued to a provider, the "provider fee" is the
+127 total purchase price paid for a service contract net of the
+128 premium.
+129 (12) REFUND. To refund the price of covered property or
+130 a component thereof, less reasonable depreciation, if:
+131 a. The replacement or repair of the property is not
+132 commercially practicable; or
+133 b. The contract holder agrees to accept a refund in
+134 place of the replacement or repair of the covered property or
+135 component thereof.
+136 (12)(13) REIMBURSEMENT INSURANCE POLICY. A policy of
+137 insurance issued to a provider pursuant to which the insurer
+138 agrees, for the benefit of the service contract holders, to
+139 discharge the obligations of the provider under the terms of
+140 the service contracts in the event of non-performance
+Page 5
+the service contracts in the event of non-performance
+HB5 INTRODUCED
+141 nonperformance by the provider.
+142 (14) REPAIR. The restoration of operationally or
+143 functionally failing covered property to sound or good
+144 condition.
+145 (15) REPLACE. The replacement of property or a
+146 component thereof with a new and identical or equivalent
+147 product or component.
+148 (13)(16) ROAD HAZARD. A hazard that is encountered
+149 while driving a motor vehicle, including, but not limited to,
+150 potholes, rocks, wood debris, metal parts, glass, plastic,
+151 curbs, or composite scraps.
+152 (14)(17) SERVICE CONTRACT. A contract or agreement for
+153 a separately stated consideration for a specific duration to
+154 perform the repair, replacement, or maintenance of property or
+155 indemnification for repair, replacement, or maintenance, for
+156 the operational or structural failure due to a defect in
+157 materials or workmanship, or normal wear and tear, with or
+158 without additional provision for incidental payment or
+159 indemnity under limited circumstances, for related expenses,
+160 including, but not limited to, towing, rental, and emergency
+161 road service. Service contracts may provide for the repair,
+162 replacement, or maintenance of property for damage resulting
+163 from power surges and accidental damage from handling.
+164 "Service contract" The term does not include warranties,
+165 mechanical breakdown insurance, or maintenance agreements. A
+166 service contract is not insurance for any purpose, including,
+167 but not limited to, compliance with the Alabama Insurance
+168 Code, other than for the purpose of a service contract
+Page 6
+Code, other than for the purpose of a service contract
+HB5 INTRODUCED
+169 holder's claim against a service contract provider for failure
+170 to comply with the provisions of the service contract if so
+171 provided by other law. Service contract services include, but
+172 are not limited to, the following:
+173 a. The repair or replacement of tires or wheels, or
+174 both, on a motor vehicle damaged as a result of coming into
+175 contact with a road hazard.
+176 b. The removal of dents, dings, or creases on a motor
+177 vehicle that may be repaired using the process of paintless
+178 dent removal without affecting the existing paint finish and
+179 without replacing vehicle body panels, sanding, bonding, or
+180 painting.
+181 c. The repair of chips or cracks in or the replacement
+182 of a motor vehicle windshield as a result of damage caused by
+183 a road hazard that is primary to the coverage offered by the
+184 motor vehicle owner's motor vehicle insurance policy.
+185 d. The replacement of a motor vehicle key or key-fob if
+186 the key or key-fob becomes inoperable, lost, or stolen.
+187 e. Other services which that may be approved by the
+188 commissioner, if not inconsistent with this chapter.
+189 (15)(18) SERVICE CONTRACT HOLDER or CONTRACT HOLDER. A
+190 person who is the purchaser or holder of a service contract.
+191 (16)(19) WARRANTY. A warranty made by the manufacturer,
+192 importer, distributor, or seller of property or services
+193 without consideration stated separately from the price of the
+194 property or services sold, that is not negotiated separate
+195 from the sale of the product and is incidental to the sale of
+196 the product, that guarantees repair or replacement, or
+Page 7
+the product, that guarantees repair or replacement, or
+HB5 INTRODUCED
+197 indemnity for repair or replacement, for defective parts,
+198 mechanical or electrical breakdown, labor or other remedial
+199 measures, such as repair or replacement of the property or
+200 repetition of services."
+201 "§8-32-3
+202 (a) Either the provider or its designee shall provide
+203 both of the following to a contract holder:
+204 (1) Provide a A receipt for, or other written evidence
+205 of, the purchase of the service contract to the contract
+206 holder.
+207 (2) Provide a A copy of the service contract to the
+208 service contract holder within a reasonable period of time
+209 from the date of purchase.
+210 (b) A provider may, but is not required to, appoint an
+211 administrator or other designee to be responsible for any or
+212 all of the administration of service contracts and compliance
+213 with this chapter.
+214 (c) Each provider of service contracts sold in this
+215 state shall file a registration with the commissioner on a
+216 form prescribed by the commissioner. Each provider shall pay
+217 to the commissioner a fee in the amount of two hundred dollars
+218 ($200) annually. All fees collected shall be paid into a
+219 special revolving fund to be set up by the State Treasurer
+220 referred to as the "Service Contract Revolving Fund." The
+221 Service Contract Revolving Fund shall be used in the
+222 supervision and examination of providers and otherwise in the
+223 administration of this chapter; provided, however, that
+224 nothing in this section shall be construed to mean that all of
+Page 8
+nothing in this section shall be construed to mean that all of
+HB5 INTRODUCED
+225 the expenses of supervision and examination of providers and
+226 in the administration of this chapter incurred by the State
+227 Insurance Department shall come from the Service Contract
+228 Revolving Fund.
+229 (d) All funds now or hereafter deposited in the State
+230 Treasury to the credit of the Service Contract Revolving Fund
+231 shall may not be expended for any purpose whatsoever unless
+232 the same shall have been allotted and budgeted in accordance
+233 with the provisions of Sections 41-4-80 to 41-4-96, inclusive,
+234 and 41-19-1 to 41-19-12, inclusive, and only in the amounts
+235 and for the purposes provided by the Legislature in the
+236 general appropriation bill, other appropriations bills, or
+237 this chapter.
+238 (e) There is hereby appropriated for the fiscal year
+239 ending September 30, 1998, from the Service Contract Revolving
+240 Fund to the State Department of Insurance those amounts as
+241 deemed necessary to carry out the provisions of this chapter
+242 as determined by the Commissioner of Insurance.
+243 (f) In order to assure the faithful performance of a
+244 provider's obligations to its service contract holders, each
+245 provider shall be responsible for complying with the
+246 requirements of one of the following subdivisions:
+247 (1) Insure all service contracts under a reimbursement
+248 insurance policy issued by an insurer authorized to transact
+249 insurance in this state or issued pursuant to Chapter 10,
+250 Title 27.
+251 (2) Do both of the following:
+252 a. Maintain a funded reserve account for its
+Page 9
+a. Maintain a funded reserve account for its
+HB5 INTRODUCED
+253 obligations under its service contracts sold and outstanding
+254 in this state. The reserves shall be based on the loss
+255 experience of the provider as certified by an actuary or, at
+256 the election of the provider, the reserves shall be 30 percent
+257 of the aggregate provider fees for all service contracts sold
+258 and then in force. The reserve account shall be subject to
+259 examination and review by the commissioner.
+260 b. Place in trust with the commissioner a financial
+261 security deposit, having a value of not less than five percent
+262 of the aggregate provider fees, less claims paid, for all
+263 service contracts sold and then in force, but not less than
+264 twenty-five thousand dollars ($25,000) consisting of one of
+265 the following:
+266 (i)1. A surety bond issued by an authorized surety.
+267 (ii)2. Securities of the type eligible for deposit by
+268 authorized insurers in this state.
+269 (iii)3. Cash.
+270 (iv)4. A letter of credit issued by a qualified
+271 financial institution.
+272 (v)5. Another form of security prescribed by
+273 regulations issued by the commissioner.
+274 (3) Do both of the following:
+275 a. Maintain a net worth or stockholders' equity of one
+276 hundred million dollars ($100,000,000).
+277 b. Upon request, provide the commissioner with a copy
+278 of the financial statement of the provider included in its
+279 most recent annual report on Form 10-K or Form 20-F filed with
+Page 10
+most recent annual report on Form 10-K or Form 20-F filed with
+HB5 INTRODUCED
+280 the Securities and Exchange Commission (SEC) within the last
+281 calendar year, or if the provider does not file with the SEC,
+282 a copy of the audited financial statements of the provider,
+283 which shows a net worth of the provider of at least one
+284 hundred million dollars ($100,000,000). A consolidated Form
+285 10-K, Form 20-F, or audited financial statements shall meet
+286 the requirements of this chapter for the provider if it shows
+287 a net worth or stockholders' equity of the provider of at
+288 least one hundred million dollars ($100,000,000) and there
+289 shall be no requirement of a parent company guarantee,
+290 reimbursement insurance, or other form of financial stability
+291 requirement. However, if the Form 10-K, Form 20-F, or audited
+292 financial statements of the parent company of the provider are
+293 filed to meet the provider's financial stability requirement
+294 because the provider's net worth or stockholders' equity of
+295 the provider is not at least one hundred million dollars
+296 ($100,000,000), or because the net worth or stockholders'
+297 equity is not determinable from the consolidated Form 10-K,
+298 Form 20-F, or audited financial statements of the parent
+299 company, then the parent company shall agree to guarantee the
+300 obligations of the provider relating to service contracts sold
+301 by the provider in this state.
+302 (g) Service contracts shall require the provider to
+303 permit the service contract holder to return the service
+304 contract within no less than 20 days of the date the service
+305 contract was mailed to the service contract holder or within
+306 no less than 10 days of delivery if the service contract is
+307 delivered to the service contract holder at the time of sale.
+Page 11
+delivered to the service contract holder at the time of sale.
+HB5 INTRODUCED
+308 Upon return of the service contract to the provider within the
+309 applicable time period, if no claim has been made under the
+310 service contract prior to its return to the provider, the
+311 service contract is void and the provider shall refund to the
+312 service contract holder the full purchase price of the service
+313 contract including any premium paid for any applicable
+314 reimbursement insurance policy. Any refund due a service
+315 contract holder may be credited to any outstanding balance of
+316 the account of the service contract holder, and the excess, if
+317 any, shall be refunded to the service contract holder. The
+318 right to void the service contract provided in this subsection
+319 (g) is not transferable and shall apply only to the original
+320 service contract purchaser, and only if no claim has been made
+321 prior to its return to the provider. A 10 percent penalty per
+322 month shall be added to a refund that is not paid or credited
+323 within 45 days after return of the service contract to the
+324 provider.
+325 (h) In the event the original service contract holder
+326 makes a written demand for cancellation of a service contract
+327 pursuant to the terms of the service contract, the provider
+328 shall refund to the service contract holder the unearned
+329 portion of the full purchase price of the service contract
+330 including the unearned portion of any premium paid for any
+331 applicable reimbursement insurance policy. Any refund due a
+332 service contract holder may be credited to any outstanding
+333 balance of the account of the service contract holder, and the
+334 excess, if any, shall be refunded to the service contract
+335 holder. If the original contract purchaser or a contract
+Page 12
+holder. If the original contract purchaser or a contract
+HB5 INTRODUCED
+336 holder elects cancellation, the provider may retain an
+337 administrative fee of up to twenty-five dollars ($25) for
+338 issuance of the service contract if such the fee is provided
+339 for in the service contract; however, this amount may not be
+340 deducted in the event the service contract is terminated
+341 pursuant to the provisions of subsection (g).
+342 (i)(1) Provider fees are not subject to premium taxes.
+343 (2) Premiums for reimbursement insurance policies are
+344 subject to applicable taxes.
+345 (j) Except for the registration requirement in
+346 subsection (c), providers, administrators, and other persons
+347 marketing, selling, or offering to sell service contracts for
+348 providers are exempt from any licensing requirements of this
+349 state.
+350 (k) Providers are not required to comply with any
+351 provision of Title 27.
+352 (l) A provider shall disclose in an advertisement for a
+353 service contract, in boldface print larger than the body of
+354 the advertisement, any right of the provider to refund a
+355 contract holder in an amount less than the provider's cost for
+356 repair or replacement of covered property."
+357 "§8-32-5
+358 (a) Service contracts sold or offered for sale in this
+359 state, in their entirety, shall be written, printed, or typed
+360 in eight point type size, or larger, and shall comply with the
+361 requirements set forth in this section, as applicable.
+362 (b)(1) Service contracts insured under a reimbursement
+363 insurance policy pursuant to subdivision (1) of subsection (f)
+Page 13
+insurance policy pursuant to subdivision (1) of subsection (f)
+HB5 INTRODUCED
+364 of Section 8-32-3 8-32-3(f)(1) shall contain a statement in
+365 substantially the following form:
+366 "Obligations of the provider under this service
+367 contract are guaranteed under a service contract reimbursement
+368 insurance policy."
+369 (2) If the provider fails to pay or to provide service
+370 on a claim within 60 days after proof of loss has been filed,
+371 the service contract holder is entitled to may make a claim
+372 directly against the reimbursement insurance company. The
+373 service contract shall state the name and address of the
+374 reimbursement insurance company.
+375 (c) Service contracts not insured under a reimbursement
+376 insurance policy pursuant to subdivision (1) of subsection (f)
+377 of Section 8-32-3 8-32-3(f)(1) shall contain a statement in
+378 substantially the following form:
+379 "Obligations of the provider under this service
+380 contract are backed by the full faith and credit of the
+381 provider."
+382 (d) Service contracts shall state the name and address
+383 of the provider, and shall identify any administrator, the
+384 service contract seller, and the service contract holder to
+385 the extent that the name and address of the service contract
+386 holder has been furnished by the service contract holder.
+387 Neither the name of the service contract seller nor other
+388 provisions are The information described in this subsection is
+389 not required to be preprinted on the service contract and may
+390 be added to the service contract at the time of sale.
+391 (e) Service contracts shall state the purchase price of
+Page 14
+(e) Service contracts shall state the purchase price of
+HB5 INTRODUCED
+392 the service contract, the term of the service contract, and
+393 any applicable renewal provisions. Neither the purchase price
+394 nor any other provisions are The information described in this
+395 subsection is not required to be pre-printed preprinted on the
+396 service contract and may be negotiated at the time of sale
+397 with the service contract holder.
+398 (f) If the provider will reimburse the contract holder
+399 for repair work performed by third parties and if prior
+400 approval of repair work is required,: (i) the service contract
+401 shall state the procedure for obtaining prior approval and for
+402 making a claim, including a toll-free telephone number for
+403 claim service; and (ii) if the service contract provides
+404 services essential to public health, safety, or welfare, the
+405 service contract shall either provide for 24-hour telephone
+406 assistance, or state the procedure for obtaining emergency
+407 repairs performed outside of normal business hours.
+408 (g) Service contracts shall state the existence of any
+409 deductible amount.
+410 (h) Service contracts shall describe the property upon
+411 which the services are to be provided, the services to be
+412 provided, and, in boldface print larger than the body of the
+413 contract, any limitations, exceptions, or exclusions to the
+414 services to be provided, including both of the following:
+415 (1) Any limit on the repair, replacement, or refund of
+416 covered property.
+417 (2) Any right of the provider to refund a contract
+418 holder in an amount less than the provider's cost for repair
+419 or replacement of the property.
+Page 15
+or replacement of the property.
+HB5 INTRODUCED
+420 (i) Service contracts shall state whether the use of
+421 non-original manufacturer's parts is allowed.
+422 (j) Service contracts shall state any restrictions
+423 governing the transferability of the service contract.
+424 (k) Service contracts shall state the terms,
+425 restrictions, or conditions governing cancellation of the
+426 service contract prior to the termination or expiration date
+427 of the service contract by either the provider or by the
+428 service contract holder. The provider of the service contract
+429 shall mail a written notice to the service contract holder at
+430 the last known address of the service contract holder
+431 contained in the records of the provider at least five days
+432 prior to cancellation by the provider. Prior notice is not
+433 required if the reason for cancellation is nonpayment of the
+434 provider fee or a material misrepresentation by the service
+435 contract holder to the provider relating to the covered
+436 property or its use. The notice shall state the effective date
+437 of the cancellation and the reason for the cancellation.
+438 (l) Service contracts shall set forth the obligations
+439 and duties of the service contract holder relating to the
+440 property covered by the service contract.
+441 (m) Service contracts shall state whether or not the
+442 service contract provides for or excludes consequential
+443 damages or preexisting conditions, to the extent applicable.
+444 (n) Service contracts may contain other provisions as
+445 determined by the provider.
+446 (o) Service contracts shall provide, in boldface print
+447 larger than the body of the contract, the procedures that a
+Page 16
+larger than the body of the contract, the procedures that a
+HB5 INTRODUCED
+448 contract holder shall take to receive the repair, replacement,
+449 or refund of operationally or structurally failing covered
+450 property."
+451 Section 2. This act shall become effective on January
+452 1, 2027.
+453
+Page 17
+[DELETED: 5I]
+
+
+================================================================================
+
+Raw Text:
+HB5 INTRODUCED
+1 HB5
+2 84UXGFF-1
+3 By Representative McCampbell
+4 RFD: Commerce and Small Business
+5 First Read: 13-Jan-26
+6 PFD: 25-Jun-25
+Page 0
+
+PFD: 25-Jun-25
+84UXGFF-1 05/12/2025 ZAK (L)ZAK 2025-1898
+1
+2
+3
+4 SYNOPSIS:
+5 Generally, pursuant to the terms of a service
+6 contract, a provider agrees to repair, replace, or
+7 provide a refund for covered property that is
+8 operationally or functionally failing.
+9 This bill would require that when advertising a
+10 service contract, the advertisement must disclose any
+11 right of the provider to refund a contract holder in an
+12 amount less than the provider's cost to repair or
+13 replace covered property.
+14 This bill would further provide for the
+15 limitations, exceptions, and exclusions of service
+16 contracts that must be disclosed.
+17 This bill would further provide for entities
+18 that are exempt from certain service contract
+19 regulations.
+20 This bill would also make nonsubstantive,
+21 technical revisions to update the existing code
+22 language to current style.
+23
+24
+25 A BILL
+26 TO BE ENTITLED
+27 AN ACT
+28
+Page 1
+
+HB5 INTRODUCED
+29 Relating to service contracts; to amend Sections
+30 8-32-1, 8-32-2, 8-32-3, and 8-32-5, Code of Alabama 1975, to
+31 further provide for entities exempt from certain service
+32 contract regulations; to require certain disclosure when
+33 advertising contracts; to further provide for the limitations,
+34 exceptions, and exclusions of contracts that must be
+35 disclosed; and to make nonsubstantive, technical revisions to
+36 update the existing code language to current style.
+37 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+38 Section 1. Sections 8-32-1, 8-32-2, 8-32-3, and 8-32-5,
+39 Code of Alabama 1975, are amended to read as follows:
+40 "§8-32-1
+41 (a) The purpose of this chapter is to create a
+42 framework to regulate service contracts sold to consumers in
+43 this state.
+44 (b) The following are exempt from Sections 8-32-2 to
+45 8-32-12, inclusive, of this chapter:
+46 (1) Warranties.
+47 (2) Maintenance agreements.
+48 (3) Warranties, service contracts, or maintenance
+49 agreements offered by electric, gas, water, or telephone
+50 utilities or mobile telecommunications service providers on
+51 their transmission devices.
+52 (4) Service contracts sold or offered for sale in
+53 commercial transactions.
+54 (5) Service contracts sold or offered for sale to
+55 persons other than consumers.
+56 (6) Service contracts sold at the point of sale, or
+Page 2
+
+(6) Service contracts sold at the point of sale, or
+HB5 INTRODUCED
+57 within 60 days of after the original purchase date of the
+58 property, which cover tangible property where the tangible
+59 property for which the service contract is sold, has a
+60 purchase price of two hundred and fifty dollars ($250) or
+61 less, exclusive of sales tax.
+62 (c) Manufacturer's service contracts on the
+63 manufacturer's products and service contracts sold or offered
+64 for sale by Alabama electric cooperatives, and their
+65 subsidiaries and affiliates, including, without limitation,
+66 affiliates managed or controlled by electric cooperatives, are
+67 required to comply only with Section 8-32-3(a), Section
+68 8-32-3(g), Section 8-32-5(a), Section 8-32-5(d) to (n),
+69 inclusive, Section 8-32-6, Section 8-32-10(a), and Section
+70 8-32-10(c) to (f), inclusive, as applicable, of this chapter.
+71 (d) The types of agreements referred to in subsections
+72 (b) and (c) are not insurance for any purpose including,
+73 without limitation, compliance with the Alabama Insurance
+74 Code."
+75 "§8-32-2
+76 As used in this chapter, the following terms shall have
+77 the following meanings:
+78 (1) ADMINISTRATOR. The person designated by a provider
+79 to be responsible for the administration of service contracts
+80 or the service contracts plan or to make the filings required
+81 by this chapter.
+82 (2) COMMISSIONER. The Commissioner of Insurance of this
+83 state.
+84 (3) CONSUMER. A natural person An individual who buys,
+Page 3
+
+(3) CONSUMER. A natural person An individual who buys,
+HB5 INTRODUCED
+85 primarily for personal, family, or household purposes, and not
+86 for resale, any tangible personal property normally used for
+87 personal, family, or household purposes and not for commercial
+88 or research purposes.
+89 (4) MAINTENANCE AGREEMENT. A contract of limited
+90 duration that provides for scheduled maintenance only.
+91 (5) MANUFACTURER. A person that is one of the
+92 following:
+93 a. A manufacturer or producer of property that sells
+94 the property under its own name or label.
+95 b. A subsidiary of the person who manufactures or
+96 produces the property.
+97 c. A corporation which that owns at least 80 percent of
+98 the person who that manufactures or produces the property.
+99 d. A person who that manufactures or produces the
+100 property even though the property is sold under the trade name
+101 or label of another person.
+102 (6) MECHANICAL BREAKDOWN INSURANCE. For purposes of
+103 this chapter, a policy, contract, or agreement issued by an
+104 authorized insurance company directly to a consumer or other
+105 owner of property that provides for, among other coverages,
+106 the repair, replacement, or maintenance of property or
+107 indemnification for repair, replacement, or maintenance, for
+108 the operational or structural failure of the property due to a
+109 defect in materials or workmanship or due to normal wear and
+110 tear.
+111 (7) NON-ORIGINAL MANUFACTURER'S PARTS. Replacement
+112 parts not made for or by the original manufacturer of the
+Page 4
+
+parts not made for or by the original manufacturer of the
+HB5 INTRODUCED
+113 property, commonly referred to as "after market parts."
+114 (8) PERSON. An individual, partnership, corporation,
+115 incorporated or unincorporated association, joint stock
+116 company, reciprocal, syndicate, or any other entity, or
+117 combination of persons acting in concert.
+118 (9) PREMIUM. The consideration paid to an insurer for a
+119 reimbursement insurance policy.
+120 (10) PROVIDER. A person who administers, makes,
+121 provides, sells, or offers to sell a service contract, who is
+122 contractually obligated to provide service under a service
+123 contract.
+124 (11) PROVIDER FEE. The total purchase price paid for a
+125 service contract. In cases where a reimbursement insurance
+126 policy is issued to a provider, the "provider fee" is the
+127 total purchase price paid for a service contract net of the
+128 premium.
+129 (12) REFUND. To refund the price of covered property or
+130 a component thereof, less reasonable depreciation, if:
+131 a. The replacement or repair of the property is not
+132 commercially practicable; or
+133 b. The contract holder agrees to accept a refund in
+134 place of the replacement or repair of the covered property or
+135 component thereof.
+136 (12)(13) REIMBURSEMENT INSURANCE POLICY. A policy of
+137 insurance issued to a provider pursuant to which the insurer
+138 agrees, for the benefit of the service contract holders, to
+139 discharge the obligations of the provider under the terms of
+140 the service contracts in the event of non-performance
+Page 5
+
+the service contracts in the event of non-performance
+HB5 INTRODUCED
+141 nonperformance by the provider.
+142 (14) REPAIR. The restoration of operationally or
+143 functionally failing covered property to sound or good
+144 condition.
+145 (15) REPLACE. The replacement of property or a
+146 component thereof with a new and identical or equivalent
+147 product or component.
+148 (13)(16) ROAD HAZARD. A hazard that is encountered
+149 while driving a motor vehicle, including, but not limited to,
+150 potholes, rocks, wood debris, metal parts, glass, plastic,
+151 curbs, or composite scraps.
+152 (14)(17) SERVICE CONTRACT. A contract or agreement for
+153 a separately stated consideration for a specific duration to
+154 perform the repair, replacement, or maintenance of property or
+155 indemnification for repair, replacement, or maintenance, for
+156 the operational or structural failure due to a defect in
+157 materials or workmanship, or normal wear and tear, with or
+158 without additional provision for incidental payment or
+159 indemnity under limited circumstances, for related expenses,
+160 including, but not limited to, towing, rental, and emergency
+161 road service. Service contracts may provide for the repair,
+162 replacement, or maintenance of property for damage resulting
+163 from power surges and accidental damage from handling.
+164 "Service contract" The term does not include warranties,
+165 mechanical breakdown insurance, or maintenance agreements. A
+166 service contract is not insurance for any purpose, including,
+167 but not limited to, compliance with the Alabama Insurance
+168 Code, other than for the purpose of a service contract
+Page 6
+
+Code, other than for the purpose of a service contract
+HB5 INTRODUCED
+169 holder's claim against a service contract provider for failure
+170 to comply with the provisions of the service contract if so
+171 provided by other law. Service contract services include, but
+172 are not limited to, the following:
+173 a. The repair or replacement of tires or wheels, or
+174 both, on a motor vehicle damaged as a result of coming into
+175 contact with a road hazard.
+176 b. The removal of dents, dings, or creases on a motor
+177 vehicle that may be repaired using the process of paintless
+178 dent removal without affecting the existing paint finish and
+179 without replacing vehicle body panels, sanding, bonding, or
+180 painting.
+181 c. The repair of chips or cracks in or the replacement
+182 of a motor vehicle windshield as a result of damage caused by
+183 a road hazard that is primary to the coverage offered by the
+184 motor vehicle owner's motor vehicle insurance policy.
+185 d. The replacement of a motor vehicle key or key-fob if
+186 the key or key-fob becomes inoperable, lost, or stolen.
+187 e. Other services which that may be approved by the
+188 commissioner, if not inconsistent with this chapter.
+189 (15)(18) SERVICE CONTRACT HOLDER or CONTRACT HOLDER. A
+190 person who is the purchaser or holder of a service contract.
+191 (16)(19) WARRANTY. A warranty made by the manufacturer,
+192 importer, distributor, or seller of property or services
+193 without consideration stated separately from the price of the
+194 property or services sold, that is not negotiated separate
+195 from the sale of the product and is incidental to the sale of
+196 the product, that guarantees repair or replacement, or
+Page 7
+
+the product, that guarantees repair or replacement, or
+HB5 INTRODUCED
+197 indemnity for repair or replacement, for defective parts,
+198 mechanical or electrical breakdown, labor or other remedial
+199 measures, such as repair or replacement of the property or
+200 repetition of services."
+201 "§8-32-3
+202 (a) Either the provider or its designee shall provide
+203 both of the following to a contract holder:
+204 (1) Provide a A receipt for, or other written evidence
+205 of, the purchase of the service contract to the contract
+206 holder.
+207 (2) Provide a A copy of the service contract to the
+208 service contract holder within a reasonable period of time
+209 from the date of purchase.
+210 (b) A provider may, but is not required to, appoint an
+211 administrator or other designee to be responsible for any or
+212 all of the administration of service contracts and compliance
+213 with this chapter.
+214 (c) Each provider of service contracts sold in this
+215 state shall file a registration with the commissioner on a
+216 form prescribed by the commissioner. Each provider shall pay
+217 to the commissioner a fee in the amount of two hundred dollars
+218 ($200) annually. All fees collected shall be paid into a
+219 special revolving fund to be set up by the State Treasurer
+220 referred to as the "Service Contract Revolving Fund." The
+221 Service Contract Revolving Fund shall be used in the
+222 supervision and examination of providers and otherwise in the
+223 administration of this chapter; provided, however, that
+224 nothing in this section shall be construed to mean that all of
+Page 8
+
+nothing in this section shall be construed to mean that all of
+HB5 INTRODUCED
+225 the expenses of supervision and examination of providers and
+226 in the administration of this chapter incurred by the State
+227 Insurance Department shall come from the Service Contract
+228 Revolving Fund.
+229 (d) All funds now or hereafter deposited in the State
+230 Treasury to the credit of the Service Contract Revolving Fund
+231 shall may not be expended for any purpose whatsoever unless
+232 the same shall have been allotted and budgeted in accordance
+233 with the provisions of Sections 41-4-80 to 41-4-96, inclusive,
+234 and 41-19-1 to 41-19-12, inclusive, and only in the amounts
+235 and for the purposes provided by the Legislature in the
+236 general appropriation bill, other appropriations bills, or
+237 this chapter.
+238 (e) There is hereby appropriated for the fiscal year
+239 ending September 30, 1998, from the Service Contract Revolving
+240 Fund to the State Department of Insurance those amounts as
+241 deemed necessary to carry out the provisions of this chapter
+242 as determined by the Commissioner of Insurance.
+243 (f) In order to assure the faithful performance of a
+244 provider's obligations to its service contract holders, each
+245 provider shall be responsible for complying with the
+246 requirements of one of the following subdivisions:
+247 (1) Insure all service contracts under a reimbursement
+248 insurance policy issued by an insurer authorized to transact
+249 insurance in this state or issued pursuant to Chapter 10,
+250 Title 27.
+251 (2) Do both of the following:
+252 a. Maintain a funded reserve account for its
+Page 9
+
+a. Maintain a funded reserve account for its
+HB5 INTRODUCED
+253 obligations under its service contracts sold and outstanding
+254 in this state. The reserves shall be based on the loss
+255 experience of the provider as certified by an actuary or, at
+256 the election of the provider, the reserves shall be 30 percent
+257 of the aggregate provider fees for all service contracts sold
+258 and then in force. The reserve account shall be subject to
+259 examination and review by the commissioner.
+260 b. Place in trust with the commissioner a financial
+261 security deposit, having a value of not less than five percent
+262 of the aggregate provider fees, less claims paid, for all
+263 service contracts sold and then in force, but not less than
+264 twenty-five thousand dollars ($25,000) consisting of one of
+265 the following:
+266 (i)1. A surety bond issued by an authorized surety.
+267 (ii)2. Securities of the type eligible for deposit by
+268 authorized insurers in this state.
+269 (iii)3. Cash.
+270 (iv)4. A letter of credit issued by a qualified
+271 financial institution.
+272 (v)5. Another form of security prescribed by
+273 regulations issued by the commissioner.
+274 (3) Do both of the following:
+275 a. Maintain a net worth or stockholders' equity of one
+276 hundred million dollars ($100,000,000).
+277 b. Upon request, provide the commissioner with a copy
+278 of the financial statement of the provider included in its
+279 most recent annual report on Form 10-K or Form 20-F filed with
+Page 10
+
+most recent annual report on Form 10-K or Form 20-F filed with
+HB5 INTRODUCED
+280 the Securities and Exchange Commission (SEC) within the last
+281 calendar year, or if the provider does not file with the SEC,
+282 a copy of the audited financial statements of the provider,
+283 which shows a net worth of the provider of at least one
+284 hundred million dollars ($100,000,000). A consolidated Form
+285 10-K, Form 20-F, or audited financial statements shall meet
+286 the requirements of this chapter for the provider if it shows
+287 a net worth or stockholders' equity of the provider of at
+288 least one hundred million dollars ($100,000,000) and there
+289 shall be no requirement of a parent company guarantee,
+290 reimbursement insurance, or other form of financial stability
+291 requirement. However, if the Form 10-K, Form 20-F, or audited
+292 financial statements of the parent company of the provider are
+293 filed to meet the provider's financial stability requirement
+294 because the provider's net worth or stockholders' equity of
+295 the provider is not at least one hundred million dollars
+296 ($100,000,000), or because the net worth or stockholders'
+297 equity is not determinable from the consolidated Form 10-K,
+298 Form 20-F, or audited financial statements of the parent
+299 company, then the parent company shall agree to guarantee the
+300 obligations of the provider relating to service contracts sold
+301 by the provider in this state.
+302 (g) Service contracts shall require the provider to
+303 permit the service contract holder to return the service
+304 contract within no less than 20 days of the date the service
+305 contract was mailed to the service contract holder or within
+306 no less than 10 days of delivery if the service contract is
+307 delivered to the service contract holder at the time of sale.
+Page 11
+
+delivered to the service contract holder at the time of sale.
+HB5 INTRODUCED
+308 Upon return of the service contract to the provider within the
+309 applicable time period, if no claim has been made under the
+310 service contract prior to its return to the provider, the
+311 service contract is void and the provider shall refund to the
+312 service contract holder the full purchase price of the service
+313 contract including any premium paid for any applicable
+314 reimbursement insurance policy. Any refund due a service
+315 contract holder may be credited to any outstanding balance of
+316 the account of the service contract holder, and the excess, if
+317 any, shall be refunded to the service contract holder. The
+318 right to void the service contract provided in this subsection
+319 (g) is not transferable and shall apply only to the original
+320 service contract purchaser, and only if no claim has been made
+321 prior to its return to the provider. A 10 percent penalty per
+322 month shall be added to a refund that is not paid or credited
+323 within 45 days after return of the service contract to the
+324 provider.
+325 (h) In the event the original service contract holder
+326 makes a written demand for cancellation of a service contract
+327 pursuant to the terms of the service contract, the provider
+328 shall refund to the service contract holder the unearned
+329 portion of the full purchase price of the service contract
+330 including the unearned portion of any premium paid for any
+331 applicable reimbursement insurance policy. Any refund due a
+332 service contract holder may be credited to any outstanding
+333 balance of the account of the service contract holder, and the
+334 excess, if any, shall be refunded to the service contract
+335 holder. If the original contract purchaser or a contract
+Page 12
+
+holder. If the original contract purchaser or a contract
+HB5 INTRODUCED
+336 holder elects cancellation, the provider may retain an
+337 administrative fee of up to twenty-five dollars ($25) for
+338 issuance of the service contract if such the fee is provided
+339 for in the service contract; however, this amount may not be
+340 deducted in the event the service contract is terminated
+341 pursuant to the provisions of subsection (g).
+342 (i)(1) Provider fees are not subject to premium taxes.
+343 (2) Premiums for reimbursement insurance policies are
+344 subject to applicable taxes.
+345 (j) Except for the registration requirement in
+346 subsection (c), providers, administrators, and other persons
+347 marketing, selling, or offering to sell service contracts for
+348 providers are exempt from any licensing requirements of this
+349 state.
+350 (k) Providers are not required to comply with any
+351 provision of Title 27.
+352 (l) A provider shall disclose in an advertisement for a
+353 service contract, in boldface print larger than the body of
+354 the advertisement, any right of the provider to refund a
+355 contract holder in an amount less than the provider's cost for
+356 repair or replacement of covered property."
+357 "§8-32-5
+358 (a) Service contracts sold or offered for sale in this
+359 state, in their entirety, shall be written, printed, or typed
+360 in eight point type size, or larger, and shall comply with the
+361 requirements set forth in this section, as applicable.
+362 (b)(1) Service contracts insured under a reimbursement
+363 insurance policy pursuant to subdivision (1) of subsection (f)
+Page 13
+
+insurance policy pursuant to subdivision (1) of subsection (f)
+HB5 INTRODUCED
+364 of Section 8-32-3 8-32-3(f)(1) shall contain a statement in
+365 substantially the following form:
+366 "Obligations of the provider under this service
+367 contract are guaranteed under a service contract reimbursement
+368 insurance policy."
+369 (2) If the provider fails to pay or to provide service
+370 on a claim within 60 days after proof of loss has been filed,
+371 the service contract holder is entitled to may make a claim
+372 directly against the reimbursement insurance company. The
+373 service contract shall state the name and address of the
+374 reimbursement insurance company.
+375 (c) Service contracts not insured under a reimbursement
+376 insurance policy pursuant to subdivision (1) of subsection (f)
+377 of Section 8-32-3 8-32-3(f)(1) shall contain a statement in
+378 substantially the following form:
+379 "Obligations of the provider under this service
+380 contract are backed by the full faith and credit of the
+381 provider."
+382 (d) Service contracts shall state the name and address
+383 of the provider, and shall identify any administrator, the
+384 service contract seller, and the service contract holder to
+385 the extent that the name and address of the service contract
+386 holder has been furnished by the service contract holder.
+387 Neither the name of the service contract seller nor other
+388 provisions are The information described in this subsection is
+389 not required to be preprinted on the service contract and may
+390 be added to the service contract at the time of sale.
+391 (e) Service contracts shall state the purchase price of
+Page 14
+
+(e) Service contracts shall state the purchase price of
+HB5 INTRODUCED
+392 the service contract, the term of the service contract, and
+393 any applicable renewal provisions. Neither the purchase price
+394 nor any other provisions are The information described in this
+395 subsection is not required to be pre-printed preprinted on the
+396 service contract and may be negotiated at the time of sale
+397 with the service contract holder.
+398 (f) If the provider will reimburse the contract holder
+399 for repair work performed by third parties and if prior
+400 approval of repair work is required,: (i) the service contract
+401 shall state the procedure for obtaining prior approval and for
+402 making a claim, including a toll-free telephone number for
+403 claim service; and (ii) if the service contract provides
+404 services essential to public health, safety, or welfare, the
+405 service contract shall either provide for 24-hour telephone
+406 assistance, or state the procedure for obtaining emergency
+407 repairs performed outside of normal business hours.
+408 (g) Service contracts shall state the existence of any
+409 deductible amount.
+410 (h) Service contracts shall describe the property upon
+411 which the services are to be provided, the services to be
+412 provided, and, in boldface print larger than the body of the
+413 contract, any limitations, exceptions, or exclusions to the
+414 services to be provided, including both of the following:
+415 (1) Any limit on the repair, replacement, or refund of
+416 covered property.
+417 (2) Any right of the provider to refund a contract
+418 holder in an amount less than the provider's cost for repair
+419 or replacement of the property.
+Page 15
+
+or replacement of the property.
+HB5 INTRODUCED
+420 (i) Service contracts shall state whether the use of
+421 non-original manufacturer's parts is allowed.
+422 (j) Service contracts shall state any restrictions
+423 governing the transferability of the service contract.
+424 (k) Service contracts shall state the terms,
+425 restrictions, or conditions governing cancellation of the
+426 service contract prior to the termination or expiration date
+427 of the service contract by either the provider or by the
+428 service contract holder. The provider of the service contract
+429 shall mail a written notice to the service contract holder at
+430 the last known address of the service contract holder
+431 contained in the records of the provider at least five days
+432 prior to cancellation by the provider. Prior notice is not
+433 required if the reason for cancellation is nonpayment of the
+434 provider fee or a material misrepresentation by the service
+435 contract holder to the provider relating to the covered
+436 property or its use. The notice shall state the effective date
+437 of the cancellation and the reason for the cancellation.
+438 (l) Service contracts shall set forth the obligations
+439 and duties of the service contract holder relating to the
+440 property covered by the service contract.
+441 (m) Service contracts shall state whether or not the
+442 service contract provides for or excludes consequential
+443 damages or preexisting conditions, to the extent applicable.
+444 (n) Service contracts may contain other provisions as
+445 determined by the provider.
+446 (o) Service contracts shall provide, in boldface print
+447 larger than the body of the contract, the procedures that a
+Page 16
+
+larger than the body of the contract, the procedures that a
+HB5 INTRODUCED
+448 contract holder shall take to receive the repair, replacement,
+449 or refund of operationally or structurally failing covered
+450 property."
+451 Section 2. This act shall become effective on January
+452 1, 2027.
+453
+Page 17
+
+[DELETED: 5I]

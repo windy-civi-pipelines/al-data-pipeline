@@ -1,0 +1,220 @@
+Title: 6 Act prohibits the smoking of tobacco products in most
+Official Title: 6 Act prohibits the smoking of tobacco products in most
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+SB9 INTRODUCED
+1 SB9
+2 7BHICEE-1
+3 By Senator Allen
+4 RFD: Healthcare
+5 First Read: 13-Jan-26
+6 PFD: 17-Jun-25
+Page 0
+PFD: 17-Jun-25
+7BHICEE-1 06/05/2025 KMS (L)cr 2025-2062
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Clean Indoor Air
+7 public places and at public meetings.
+8 This bill would rename the act the Vivian Davis
+9 Figures Clean Indoor Air Act.
+10 This bill would also prohibit the smoking of
+11 electronic nicotine delivery systems in the same manner
+12 as the smoking of tobacco products is prohibited.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to the Alabama Clean Indoor Air Act, to amend
+20 Sections 22-15A-1 and 22-15A-3, Code of Alabama 1975, to
+21 rename the act the Vivian Davis Figures Clean Indoor Air Act;
+22 and to prohibit the smoking of electronic nicotine delivery
+23 systems in the same manner as the smoking of tobacco products
+24 is prohibited.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Sections 22-15A-1 and 22-15A-3 of the Code
+27 of Alabama 1975, are amended to read as follows:
+28 "§22-15A-1
+Page 1
+"§22-15A-1
+SB9 INTRODUCED
+29 This chapter shall be known and may be cited as the
+30 "Alabama Vivian Davis Figures Clean Indoor Air Act.""
+31 "§22-15A-3
+32 As used in this chapter, the following words and
+33 phrases shall have the following meanings:
+34 (1) BAR AND LOUNGE. Any establishment which is
+35 primarily devoted to the serving of alcoholic beverages for
+36 consumption by patrons on the premises and in which the
+37 serving of food is only incidental to the consumption of
+38 beverages. Although a restaurant may contain a bar, the term
+39 "bar" shall not include the restaurant dining area.
+40 (2) CHILD CARE FACILITY. Any facility caring for
+41 children.
+42 (3) DEPARTMENT. The Alabama Department of Public
+43 Health.
+44 (4) EMPLOYER. Any person, partnership, association,
+45 corporation, or nonprofit entity that employs five or more
+46 persons, including the legislative, executive, and judicial
+47 branches of state government; and any county, city, town, or
+48 village, or any other political subdivision of the state; any
+49 public authority, commission, agency, or public benefit
+50 corporation; or any other separate corporate instrumentality
+51 or unit of state or local government.
+52 (5) GOVERNMENT BUILDING. Any building owned or operated
+53 by the state, including the legislative, executive, and
+54 judicial branches of state government; any county, city, town,
+55 or village, or any other political subdivision of the state;
+56 any public authority, commission, agency, or public benefit
+Page 2
+any public authority, commission, agency, or public benefit
+SB9 INTRODUCED
+57 corporation; or any other separate corporate instrumentality
+58 or unit of state or local government.
+59 (6) PUBLIC CONVEYANCE. A bus, taxi, train, trolley,
+60 boat, and any other means of public transit.
+61 (7) PUBLIC MEETING. Any meeting open to the public
+62 unless held in a private residence.
+63 (8) PUBLIC PLACE. Any enclosed area to which the public
+64 is permitted, including, but not limited to, auditoriums,
+65 elevators, hospitals, nursing homes, libraries, courtrooms,
+66 jury waiting rooms and deliberation rooms, theatres theaters,
+67 museums, common areas of retirement homes, restaurants,
+68 laundromats, health facilities, educational facilities,
+69 shopping malls, government buildings, sports and recreational
+70 facilities, places of employment, airports, banks, retail
+71 stores, and service establishments. A private residence is not
+72 a "public place."
+73 (9) SERVICE LINE. Any indoor line at which one or more
+74 persons are waiting for or receiving service of any kind,
+75 whether or not the service involves the exchange of money.
+76 (10) SMOKING. The burning of a lighted cigarette,
+77 cigar, pipe, or any other matter or substance that contains
+78 tobacco, and the use of an electronic nicotine delivery system
+79 as defined in Section 28-11-2.
+80 (11) SMOKING AREA. Any designated area meeting the
+81 requirements of Section 22-15A-7."
+82 Section 2. This act shall become effective on October
+83 1, 2026.
+Page 3
+[DELETED: 9I]
+
+
+================================================================================
+
+Raw Text:
+SB9 INTRODUCED
+1 SB9
+2 7BHICEE-1
+3 By Senator Allen
+4 RFD: Healthcare
+5 First Read: 13-Jan-26
+6 PFD: 17-Jun-25
+Page 0
+
+PFD: 17-Jun-25
+7BHICEE-1 06/05/2025 KMS (L)cr 2025-2062
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, the Alabama Clean Indoor Air
+6 Act prohibits the smoking of tobacco products in most
+7 public places and at public meetings.
+8 This bill would rename the act the Vivian Davis
+9 Figures Clean Indoor Air Act.
+10 This bill would also prohibit the smoking of
+11 electronic nicotine delivery systems in the same manner
+12 as the smoking of tobacco products is prohibited.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to the Alabama Clean Indoor Air Act, to amend
+20 Sections 22-15A-1 and 22-15A-3, Code of Alabama 1975, to
+21 rename the act the Vivian Davis Figures Clean Indoor Air Act;
+22 and to prohibit the smoking of electronic nicotine delivery
+23 systems in the same manner as the smoking of tobacco products
+24 is prohibited.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Sections 22-15A-1 and 22-15A-3 of the Code
+27 of Alabama 1975, are amended to read as follows:
+28 "§22-15A-1
+Page 1
+
+"§22-15A-1
+SB9 INTRODUCED
+29 This chapter shall be known and may be cited as the
+30 "Alabama Vivian Davis Figures Clean Indoor Air Act.""
+31 "§22-15A-3
+32 As used in this chapter, the following words and
+33 phrases shall have the following meanings:
+34 (1) BAR AND LOUNGE. Any establishment which is
+35 primarily devoted to the serving of alcoholic beverages for
+36 consumption by patrons on the premises and in which the
+37 serving of food is only incidental to the consumption of
+38 beverages. Although a restaurant may contain a bar, the term
+39 "bar" shall not include the restaurant dining area.
+40 (2) CHILD CARE FACILITY. Any facility caring for
+41 children.
+42 (3) DEPARTMENT. The Alabama Department of Public
+43 Health.
+44 (4) EMPLOYER. Any person, partnership, association,
+45 corporation, or nonprofit entity that employs five or more
+46 persons, including the legislative, executive, and judicial
+47 branches of state government; and any county, city, town, or
+48 village, or any other political subdivision of the state; any
+49 public authority, commission, agency, or public benefit
+50 corporation; or any other separate corporate instrumentality
+51 or unit of state or local government.
+52 (5) GOVERNMENT BUILDING. Any building owned or operated
+53 by the state, including the legislative, executive, and
+54 judicial branches of state government; any county, city, town,
+55 or village, or any other political subdivision of the state;
+56 any public authority, commission, agency, or public benefit
+Page 2
+
+any public authority, commission, agency, or public benefit
+SB9 INTRODUCED
+57 corporation; or any other separate corporate instrumentality
+58 or unit of state or local government.
+59 (6) PUBLIC CONVEYANCE. A bus, taxi, train, trolley,
+60 boat, and any other means of public transit.
+61 (7) PUBLIC MEETING. Any meeting open to the public
+62 unless held in a private residence.
+63 (8) PUBLIC PLACE. Any enclosed area to which the public
+64 is permitted, including, but not limited to, auditoriums,
+65 elevators, hospitals, nursing homes, libraries, courtrooms,
+66 jury waiting rooms and deliberation rooms, theatres theaters,
+67 museums, common areas of retirement homes, restaurants,
+68 laundromats, health facilities, educational facilities,
+69 shopping malls, government buildings, sports and recreational
+70 facilities, places of employment, airports, banks, retail
+71 stores, and service establishments. A private residence is not
+72 a "public place."
+73 (9) SERVICE LINE. Any indoor line at which one or more
+74 persons are waiting for or receiving service of any kind,
+75 whether or not the service involves the exchange of money.
+76 (10) SMOKING. The burning of a lighted cigarette,
+77 cigar, pipe, or any other matter or substance that contains
+78 tobacco, and the use of an electronic nicotine delivery system
+79 as defined in Section 28-11-2.
+80 (11) SMOKING AREA. Any designated area meeting the
+81 requirements of Section 22-15A-7."
+82 Section 2. This act shall become effective on October
+83 1, 2026.
+Page 3
+
+[DELETED: 9I]

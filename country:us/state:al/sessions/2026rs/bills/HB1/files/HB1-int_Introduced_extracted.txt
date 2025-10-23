@@ -1,0 +1,1464 @@
+Title: 3 By Representatives Boyd, Forte, Warren, Jackson, Chestnut,
+Official Title: 3 By Representatives Boyd, Forte, Warren, Jackson, Chestnut,
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB1 INTRODUCED
+1 HB1
+2 U9QASDG-1
+4 England, Hollis, Gray, McClammy, Lands, Travis, Ensler,
+5 Tillman, Jones, Hassell
+6 RFD: Public Safety and Homeland Security
+7 First Read: 13-Jan-26
+8 PFD: 25-Jun-25
+Page 0
+PFD: 25-Jun-25
+U9QASDG-1 06/04/2025 THR (L)THR 2025-1833
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person convicted of
+6 driving under the influence for the first time may have
+7 his or her mandatory 90-day driver license suspension
+8 stayed if he or she has an approved ignition interlock
+9 device installed and operating on his or her designated
+10 motor vehicle for 90 days.
+11 This bill would require a person convicted of
+12 driving under the influence for the first time to have
+13 an approved ignition interlock device installed and
+14 operating on his or her motor vehicle for six months.
+15 This bill would also make conforming changes.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to motor vehicles; to amend Section 32-5A-191,
+23 Code of Alabama 1975; to require an ignition interlock device
+24 for the first violation of driving while under the influence.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 32-5A-191, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§32-5A-191
+Page 1
+"§32-5A-191
+HB1 INTRODUCED
+29 (a) A person shall not drive or be in actual physical
+30 control of any vehicle while:
+31 (1) There is 0.08 percent or more by weight of alcohol
+32 in his or her blood;
+33 (2) Under the influence of alcohol;
+34 (3) Under the influence of a controlled substance to a
+35 degree which renders him or her incapable of safely driving;
+36 (4) Under the combined influence of alcohol and a
+37 controlled substance to a degree which renders him or her
+38 incapable of safely driving; or
+39 (5) Under the influence of any substance which impairs
+40 the mental or physical faculties of such person to a degree
+41 which that renders him or her incapable of safely driving.
+42 (b)(1) A person who is under the age of 21 years of age
+43 shall not drive or be in actual physical control of any
+44 vehicle if there is 0.02 percent or more by weight of alcohol
+45 in his or her blood.
+46 (2) The Alabama State Law Enforcement Agency shall
+47 suspend or revoke the driver's driver license of any person,
+48 including, but not limited to, a juvenile, child, or youthful
+49 offender, convicted or adjudicated of, or subjected to a
+50 finding of, delinquency based on this subsection.
+51 (3) Notwithstanding the foregoing, upon the first
+52 violation of this subsection by a person whose blood alcohol
+53 level is between 0.02 and 0.08, the person's driver's driver
+54 license or driving privilege shall be suspended for a period
+55 of 30 days in lieu of any penalties provided in subsection (e)
+56 of this section, and there shall be no disclosure, other than
+Page 2
+of this section, and there shall be no disclosure, other than
+HB1 INTRODUCED
+57 to courts, law enforcement agencies, the person's attorney of
+58 record, and the person's employer, by any entity or person of
+59 any information, documents, or records relating to the
+60 person's arrest, conviction, or adjudication of or finding of
+61 delinquency based on this subsection.
+62 (4) All persons, except as otherwise provided in this
+63 subsection for a first offense, including, but not limited to,
+64 a juvenile, child, or youthful offender, convicted or
+65 adjudicated of or subjected to a finding of delinquency based
+66 on this subsection shall be fined pursuant to this section,
+67 notwithstanding any other law to the contrary, and the person
+68 shall also be required to attend and complete a DUI or
+69 substance abuse court referral program in accordance with
+70 subsection (k).
+71 (c)(1) A school bus or day care driver shall not drive
+72 or be in actual physical control of any vehicle while in
+73 performance of his or her duties if there is greater than 0.02
+74 percent by weight of alcohol in his or her blood. A person
+75 convicted pursuant to this subsection shall be subject to the
+76 penalties provided by this section, except that on the first
+77 conviction the Secretary of the Alabama State Law Enforcement
+78 Agency shall suspend the driving privilege or driver's driver
+79 license for a period of one year.
+80 (2) A person shall not drive or be in actual physical
+81 control of a commercial motor vehicle, as defined in 49 CFR
+82 C.F.R. Part § 383.5 of the Federal Motor Carrier Safety
+83 Regulations as adopted pursuant to Section 32-9A-2, if there
+84 is 0.04 percent or greater by weight of alcohol in his or her
+Page 3
+is 0.04 percent or greater by weight of alcohol in his or her
+HB1 INTRODUCED
+85 blood. Notwithstanding the other provisions of this section,
+86 the commercial driver's driver license or commercial driving
+87 privilege of a person convicted of violating this subdivision
+88 shall be disqualified for the period provided in accordance
+89 with 49 CFR Part C.F.R. § 383.51, as applicable, and the
+90 person's regular driver's driver license or privilege to drive
+91 a regular motor vehicle shall be governed by the remainder of
+92 this section if the person is guilty of a violation of another
+93 provision of this section.
+94 (3) Any commutation of suspension or revocation time as
+95 it relates to a court order, approval, and installation of an
+96 ignition interlock device shall not apply to commercial
+97 driving privileges or disqualifications.
+98 (d) The fact that any person charged with violating
+99 this section is or has been legally entitled to use alcohol or
+100 a controlled substance shall not constitute a defense against
+101 any charge of violating this section.
+102 (e)(1)a. Upon first conviction, a person violating this
+103 section shall be punished by imprisonment in the county or
+104 municipal jail for not more than one year, or by fine of not
+105 less than six hundred dollars ($600) nor more than two
+106 thousand one hundred dollars ($2,100), or by both a fine and
+107 imprisonment.
+108 b. In addition, on a first conviction, the Secretary of
+109 the Alabama State Law Enforcement Agency shall suspend the
+110 driving privilege or driver's driver license of the person
+111 convicted for a period of 90 days., The 90-day suspension
+112 shall be stayed if the offender elects and the person shall
+Page 4
+shall be stayed if the offender elects and the person shall
+HB1 INTRODUCED
+113 be required to have an approved ignition interlock device
+114 installed and operating on the designated motor vehicle driven
+115 by the offender for 90 dayssix months.
+116 c. The offender shall present proof of installation of
+117 the approved ignition interlock device to the Alabama State
+118 Law Enforcement Agency and obtain an ignition interlock
+119 restricted driver license. The remainder of the suspension
+120 shall be commuted upon the successful completion of the
+121 elected use, mandated use, or both, of the ignition interlock
+122 device.
+123 (2)a. If, on a first conviction, any person refusing to
+124 provide a blood alcohol concentration or if a child under the
+125 age of 14 years of age was a passenger in the vehicle at the
+126 time of the offense or if someone else besides the offender
+127 was injured at the time of the offense, or if the offender is
+128 found to have had at least 0.15 percent or more by weight of
+129 alcohol in his or her blood while operating or being in actual
+130 control of a vehicle, the Secretary of the Alabama State Law
+131 Enforcement Agency shall suspend the driving privilege or
+132 driver's driver license of the person convicted for a period
+133 of 90 days and the person shall be required to have an
+134 ignition interlock device installed and operating on the
+135 designated motor vehicle driven by the offender for a period
+136 of one year from the date of issuance of a driver's driver
+137 license indicating that the person's driving privileges are
+138 subject to the condition of the installation and use of a
+139 certified ignition interlock device on a motor vehicle.
+140 b. After a minimum of 45 days of the license revocation
+Page 5
+b. After a minimum of 45 days of the license revocation
+HB1 INTRODUCED
+141 or suspension pursuant to Section 32-5A-304 or this section,
+142 or both, is completed, upon receipt of a court order from the
+143 convicting court, upon issuance of an ignition interlock
+144 restricted driver license, and upon proof of installation of
+145 an operational approved ignition interlock device on the
+146 designated vehicle of the person convicted, the mandated
+147 ignition interlock period of one year provided in this
+148 subsection shall start and the suspension period, revocation
+149 period, or both, as required under this subsection shall be
+150 stayed.
+151 c. The remainder of the driver license revocation
+152 period, suspension period, or both, shall be commuted upon the
+153 successful completion of the period of time in which the
+154 ignition interlock device is mandated to be installed and
+155 operational.
+156 (f)(1) On a second conviction, a person convicted of
+157 violating this section shall be punished by a fine of not less
+158 than one thousand one hundred dollars ($1,100) nor more than
+159 five thousand one hundred dollars ($5,100) and by
+160 imprisonment, which may include hard labor in the county or
+161 municipal jail for not more than one year.
+162 (2) The sentence shall include a mandatory sentence,
+163 which is not subject to suspension or probation, of
+164 imprisonment in the county or municipal jail for not less than
+165 five days or community service for not less than 30 days.
+166 (3) In addition, the Secretary of the Alabama State Law
+167 Enforcement Agency shall revoke the driving privileges or
+168 driver's driver license of the person convicted for a period
+Page 6
+driver's driver license of the person convicted for a period
+HB1 INTRODUCED
+169 of one year, and the offender shall be required to have an
+170 ignition interlock device installed and operating on the
+171 designated motor vehicle driven by the offender for a period
+172 of two years from the date of issuance of a driver's driver
+173 license indicating that the person's driving privileges are
+174 subject to the condition of the installation and use of a
+175 certified ignition interlock device on a motor vehicle.
+176 (4) After a minimum of 45 days of the license
+177 revocation or suspension pursuant to Section 32-5A-304, this
+178 section, or both, is completed, upon receipt of a court order
+179 from the convicting court, upon issuance of an ignition
+180 interlock restricted driver license, and upon proof of
+181 installation of an operational approved ignition interlock
+182 device on the designated vehicle of the person convicted, the
+183 mandated ignition interlock period of two years approved in
+184 this subsection shall start and the suspension period,
+185 revocation period, or both, as required under this subsection
+186 shall be stayed.
+187 (5) The remainder of the driver license revocation
+188 period, suspension period, or both, shall be commuted upon the
+189 successful completion of the period of time in which the
+190 ignition interlock device is mandated to be installed and
+191 operational.
+192 (g)(1) On a third conviction, a person convicted of
+193 violating this section shall be punished by a fine of not less
+194 than two thousand one hundred dollars ($2,100) nor more than
+195 ten thousand one hundred dollars ($10,100) and by
+196 imprisonment, which may include hard labor, in the county or
+Page 7
+imprisonment, which may include hard labor, in the county or
+HB1 INTRODUCED
+197 municipal jail for not less than 60 days nor more than one
+198 year, to include a minimum of 60 days which shall be served in
+199 the county or municipal jail and cannot be probated or
+200 suspended.
+201 (2) In addition, the Secretary of the Alabama State Law
+202 Enforcement Agency shall revoke the driving privilege or
+203 driver's driver license of the person convicted for a period
+204 of three years and the offender shall be required to have an
+205 ignition interlock device installed and operating on the
+206 designated motor vehicle driven by the offender for a period
+207 of three years from the date of issuance of a driver's driver
+208 license indicating that the person's driving privileges are
+209 subject to the condition of the installation and use of a
+210 certified ignition interlock device on a motor vehicle.
+211 (3) After a minimum of 60 days of the license
+212 revocation or suspension pursuant to Section 32-5A-304, this
+213 section, or both, is completed, upon receipt of a court order
+214 from the convicting court, upon issuance of an ignition
+215 interlock restricted driver license, and upon proof of
+216 installation of an operational approved ignition interlock
+217 device on the designated vehicle of the person convicted, the
+218 mandated ignition interlock period of three years provided in
+219 this subsection shall start and the suspension period,
+220 revocation period, or both, as required under this subsection
+221 shall be stayed.
+222 (4) The remainder of the driver license revocation
+223 period, suspension period, or both, shall be commuted upon the
+224 successful completion of the period of time in which the
+Page 8
+successful completion of the period of time in which the
+HB1 INTRODUCED
+225 ignition interlock device is mandated to be installed and
+226 operational.
+227 (h)(1) On a fourth or subsequent conviction, or if the
+228 person has a previous felony DUI conviction, a person
+229 convicted of violating this section shall be guilty of a Class
+230 C felony and punished by a fine of not less than four thousand
+231 one hundred dollars ($4,100) nor more than ten thousand one
+232 hundred dollars ($10,100) and by imprisonment of not less than
+233 one year and one day nor more than 10 years.
+234 (2) Any term of imprisonment may include hard labor for
+235 the county or state, and where imprisonment does not exceed
+236 three years, confinement may be in the county jail.
+237 (3) Where imprisonment does not exceed one year and one
+238 day, confinement shall be in the county jail.
+239 (4) The minimum sentence shall include a term of
+240 imprisonment for at least one year and one day; provided,
+241 however, that there shall be a minimum mandatory sentence of
+242 10 days which shall be served in the county jail.
+243 (5) The remainder of the sentence may be suspended or
+244 probated, but only if, as a condition of probation, the
+245 defendant enrolls and successfully completes a state certified
+246 chemical dependency program recommended by the court referral
+247 officer and approved by the sentencing court.
+248 (6) Where probation is granted, the sentencing court
+249 may, in its discretion, and where monitoring equipment is
+250 available, place the defendant on house arrest under
+251 electronic surveillance during the probationary term.
+252 (7) In addition to the other penalties authorized, the
+Page 9
+(7) In addition to the other penalties authorized, the
+HB1 INTRODUCED
+253 Secretary of the Alabama State Law Enforcement Agency shall
+254 revoke the driving privilege or driver's driver license of the
+255 person convicted for a period of five years and the offender
+256 shall be required to have an ignition interlock device
+257 installed and operating on the designated motor vehicle driven
+258 by the offender for a period of four years from the date of
+259 issuance of a driver's driver license indicating that the
+260 person's driving privileges are subject to the condition of
+261 the installation and use of a certified ignition interlock
+262 device on a motor vehicle.
+263 (8) After a minimum of one year of the license
+264 revocation or suspension pursuant to Section 32-5A-304, this
+265 section, or both, is completed, upon receipt of a court order
+266 from the convicting court, upon issuance of an ignition
+267 interlock restricted driver license, and upon proof of
+268 installation of an operational approved ignition interlock
+269 device on the designated vehicle of the person convicted, the
+270 mandated ignition interlock period of four years provided in
+271 this subsection shall start and the suspension period,
+272 revocation period, or both, as required under this subsection
+273 shall be stayed.
+274 (9) The remainder of the driver license revocation
+275 period, suspension period, or both, shall be commuted upon the
+276 successful completion of the period of time in which the
+277 ignition interlock device is mandated to be installed and
+278 operational.
+279 (10)a. The Alabama habitual felony offender law shall
+280 not apply to a conviction of a felony pursuant to this
+Page 10
+not apply to a conviction of a felony pursuant to this
+HB1 INTRODUCED
+281 subsection, and a conviction of a felony pursuant to this
+282 subsection shall not be a felony conviction for purposes of
+283 the enhancement of punishment pursuant to Alabama's habitual
+284 felony offender law.
+285 b. However, prior misdemeanor or felony convictions for
+286 driving under the influence may be considered as part of the
+287 sentencing calculations or determinations under the Alabama
+288 Sentencing Guidelines or rules promulgated adopted by the
+289 Alabama Sentencing Commission.
+290 (i)(1) When any person convicted of violating this
+291 section is found to have had at least 0.15 percent or more by
+292 weight of alcohol in his or her blood while operating or being
+293 in actual physical control of a vehicle, he or she shall be
+294 sentenced to at least double the minimum punishment that the
+295 person would have received if he or she had had less than 0.15
+296 percent by weight of alcohol in his or her blood.
+297 (2) This subsection does not apply to the duration of
+298 time an ignition interlock device is required by this section.
+299 (3) If the adjudicated offense is a misdemeanor, the
+300 minimum punishment shall be imprisonment for one year, all of
+301 which may be suspended except as otherwise provided for in
+302 subsections (f) and (g).
+303 (j)(1) When any person over the age of 21 years of age
+304 is convicted of violating this section and it is found that a
+305 child under the age of 14 years of age was a passenger in the
+306 vehicle at the time of the offense, the person shall be
+307 sentenced to at least double the minimum punishment that the
+308 person would have received if the child had not been a
+Page 11
+person would have received if the child had not been a
+HB1 INTRODUCED
+309 passenger in the motor vehicle.
+310 (2) This subsection does not apply to the duration of
+311 time an ignition interlock device is required by this section.
+312 (k)(1)a. In addition to the penalties provided hereinin
+313 this section, any person convicted of violating this section
+314 shall be referred to the court referral officer for evaluation
+315 and referral to appropriate community resources.
+316 b. The defendant shall, at a minimum, be required to
+317 complete a DUI or substance abuse court referral program
+318 approved by the Administrative Office of Courts and operated
+319 in accordance with provisions of the Mandatory Treatment Act
+320 of 1990, Sections 12-23-1 to 12-23-19, inclusiveChapter 23 of
+321 Title 12.
+322 c. The Alabama State Law Enforcement Agency shall not
+323 reissue a driver's driver license to a person convicted under
+324 this section without receiving proof that the defendant has
+325 successfully completed the required program.
+326 (2)a. Upon conviction, the court shall notify the
+327 Alabama State Law Enforcement Agency if the person convicted
+328 is required to install and maintain an approved ignition
+329 interlock device.
+330 b. The agency shall suspend or revoke a person's
+331 driving privileges until completion of the mandatory
+332 suspension or revocation period required by this section, and
+333 clearance of all other suspensions, revocations,
+334 cancellations, or denials, and proof of installation of an
+335 approved ignition interlock device is presented to the agency.
+336 c. The agency shall not reissue a driver's driver
+Page 12
+c. The agency shall not reissue a driver's driver
+HB1 INTRODUCED
+337 license to a person who has been ordered by a court or is
+338 required by law to have the ignition interlock device
+339 installed until proof is presented that the person is eligible
+340 for reinstatement of driving privileges.
+341 d. Upon presentation of proof and compliance with all
+342 ignition interlock requirements, the agency shall issue a
+343 driver's driver license with a restriction indicating that the
+344 licensee may operate a motor vehicle only with the certified
+345 ignition interlock device installed and properly operating.
+346 e. If the licensee fails to maintain the approved
+347 ignition interlock device as required or is otherwise not in
+348 compliance with any order of the court, the court shall notify
+349 the agency of the noncompliance and the agency shall suspend
+350 the person's driving privileges until the agency receives
+351 notification from the court that the licensee is in
+352 compliance.
+353 f. The requirement that the licensee use the ignition
+354 interlock device may be removed only when the court of
+355 conviction confirms to the agency that the licensee is no
+356 longer subject to the ignition interlock device requirement.
+357 (l) Neither reckless driving nor any other traffic
+358 infraction is a lesser included offense under a charge of
+359 driving under the influence of alcohol or of a controlled
+360 substance.
+361 (m)(1) Except for fines collected for violations of
+362 this section charged pursuant to a municipal ordinance, fines
+363 collected for violations of this section shall be deposited to
+364 the State General Fund; however, beginning October 1, 1995, of
+Page 13
+the State General Fund; however, beginning October 1, 1995, of
+HB1 INTRODUCED
+365 any amount collected over two hundred fifty dollars ($250) for
+366 a first conviction, over five hundred dollars ($500) for a
+367 second conviction within 10 years, over one thousand dollars
+368 ($1,000) for a third conviction within 10 years, and over two
+369 thousand dollars ($2,000) for a fourth or subsequent
+370 conviction within 10 years, the first one hundred dollars
+371 ($100) of that additional amount shall be deposited to the
+372 Alabama Chemical Testing Training and Equipment Trust Fund,
+373 after three percent of the one hundred dollars ($100) is
+374 deducted for administrative costs, and beginning October 1,
+375 1997, and thereafter, the second one hundred dollars ($100) of
+376 that additional amount shall be deposited in the Alabama Head
+377 and Spinal Cord Injury Trust Fund after deducting five percent
+378 of the one hundred dollars ($100) for administrative costs and
+379 the remainder of the funds shall be deposited to the State
+380 General Fund.
+381 (2)a. Fines collected for violations of this section
+382 charged pursuant to a municipal ordinance where the total fine
+383 is paid at one time shall be deposited as follows: The first
+384 three hundred fifty dollars ($350) collected for a first
+385 conviction, the first six hundred dollars ($600) collected for
+386 a second conviction within 10 years, the first one thousand
+387 one hundred dollars ($1,100) collected for a third conviction,
+388 and the first two thousand one hundred dollars ($2,100)
+389 collected for a fourth or subsequent conviction shall be
+390 deposited to the State Treasury with the first one hundred
+391 dollars ($100) collected for each conviction credited to the
+392 Alabama Chemical Testing Training and Equipment Trust Fund and
+Page 14
+Alabama Chemical Testing Training and Equipment Trust Fund and
+HB1 INTRODUCED
+393 the second one hundred dollars ($100) to the Alabama Head and
+394 Spinal Cord Injury Trust Fund after deducting five percent of
+395 the one hundred dollars ($100) for administrative costs and
+396 depositing this amount in the general fund of the
+397 municipality, and the balance credited to the State General
+398 Fund.
+399 b. Any amounts collected over these amounts shall be
+400 deposited as otherwise provided by law.
+401 (3)a. Fines collected for violations of this section
+402 charged pursuant to a municipal ordinance, where the fine is
+403 paid on a partial or installment basis, shall be deposited as
+404 follows: The first two hundred dollars ($200) of the fine
+405 collected for any conviction shall be deposited to the State
+406 Treasury with the first one hundred dollars ($100) collected
+407 for any conviction credited to the Alabama Chemical Testing
+408 Training and Equipment Trust Fund and the second one hundred
+409 dollars ($100) for any conviction credited to the Alabama Head
+410 and Spinal Cord Injury Trust Fund after deducting five percent
+411 of the one hundred dollars ($100) for administrative costs and
+412 depositing this amount in the general fund of the
+413 municipality.
+414 b. The second three hundred dollars ($300) of the fine
+415 collected for a first conviction, the second eight hundred
+416 dollars ($800) collected for a second conviction, the second
+417 one thousand eight hundred dollars ($1,800) collected for a
+418 third conviction, and the second three thousand eight hundred
+419 dollars ($3,800) collected for a fourth conviction shall be
+420 divided with 50 percent of the funds collected to be deposited
+Page 15
+divided with 50 percent of the funds collected to be deposited
+HB1 INTRODUCED
+421 to the State Treasury to be credited to the State General Fund
+422 and 50 percent deposited as otherwise provided by law for
+423 municipal ordinance violations.
+424 c. Any amounts collected over these amounts shall be
+425 deposited as otherwise provided by law for municipal ordinance
+426 violations.
+427 (4) Notwithstanding any provision of law to the
+428 contrary, 90 percent of any fine assessed and collected for
+429 any DUI offense charged by municipal ordinance violation in
+430 district or circuit court shall be computed only on the amount
+431 assessed over the minimum fine authorized, and upon collection
+432 shall be distributed to the municipal general fund with the
+433 remaining 10 percent distributed to the State General Fund.
+434 (5)a. In addition to fines imposed pursuant to this
+435 subsection, a mandatory fee of one hundred dollars ($100)
+436 shall be collected from any individual who successfully
+437 completes any pretrial diversion or deferral program in any
+438 municipal, district, or circuit court where the individual was
+439 charged with a violation of this section or a corresponding
+440 municipal ordinance.
+441 b. The one hundred dollars ($100) shall be deposited
+442 into the Alabama Chemical Testing Training and Equipment Fund.
+443 (6)a. In addition to the fines and fees imposed
+444 pursuant to this subsection, a mandatory fee of one hundred
+445 dollars ($100) shall be collected from any individual who
+446 successfully completes any pretrial diversion or deferral
+447 program in any municipal, district, or circuit court where the
+448 individual was charged with a violation of this section or a
+Page 16
+individual was charged with a violation of this section or a
+HB1 INTRODUCED
+449 corresponding municipal ordinance.
+450 b. The one hundred dollars ($100) shall be deposited
+451 into the Alabama Head and Spinal Cord Injury Trust Fund.
+452 (n)(1) A person who has been arrested for violating
+453 this section shall not be released from jail under bond or
+454 otherwise, until there is less than the same percent by weight
+455 of alcohol in his or her blood as specified in subsection
+456 subdivision (a)(1) or, in the case of a person who is under
+457 the age of 21 years of age, subsection (b) hereof.
+458 (2)a. A judge may require an offender to install and
+459 use a certified ignition interlock device as a condition of
+460 bond. In that instance, the Secretary of the Alabama State Law
+461 Enforcement Agency shall issue the offender a restricted
+462 driver's license indicating the person's driving privileges
+463 are subject to the condition of the installation and use of a
+464 certified ignition interlock device on a motor vehicle.
+465 b. Any driver's driver license suspension or revocation
+466 period pursuant to Section 32-5A-304 shall be stayed during
+467 the period the offender is under the bond condition.
+468 c. The period of time the offender has the ignition
+469 interlock device installed as a condition of bond shall not be
+470 credited to any requirement to have an ignition interlock
+471 device upon conviction.
+472 (o) Upon verification that a defendant arrested
+473 pursuant to this section is currently on probation from
+474 another court of this state as a result of a conviction for
+475 any criminal offense, the prosecutor shall provide written or
+476 oral notification of the defendant's subsequent arrest and
+Page 17
+oral notification of the defendant's subsequent arrest and
+HB1 INTRODUCED
+477 pending prosecution to the court in which the prior conviction
+478 occurred.
+479 (p)(1) Except as provided in subdivision (2), a prior
+480 conviction for driving under the influence from this state, a
+481 municipality within this state, or another state or territory
+482 or a municipality of another state or territory shall be
+483 considered by a court for imposing a sentence pursuant to this
+484 section if the prior conviction occurred within 10 years of
+485 the date of the current offense.
+486 (2) If the person has a previous felony DUI conviction,
+487 then all of the person's subsequent DUI convictions shall be
+488 treated as felonies regardless of the date of the previous
+489 felony DUI conviction.
+490 (q) Any person convicted of driving under the influence
+491 of alcohol, or a controlled substance, or both, or any
+492 substance which impairs the mental or physical faculties in
+493 violation of this section, a municipal ordinance adopting this
+494 section, or a similar law from another state or territory or a
+495 municipality of another state or territory more than once in a
+496 10-year period shall have his or her motor vehicle
+497 registration for all vehicles owned by the repeat offender
+498 suspended by the Alabama Department of Revenue for the
+499 duration of the offender's driver's driver license suspension
+500 period, unless such action would impose an undue hardship to
+501 any individual, not including the repeat offender, who is
+502 completely dependent on the motor vehicle for the necessities
+503 of life, including any family member of the repeat offender
+504 and any co-owner of the vehicle or, in the case of a repeat
+Page 18
+and any co-owner of the vehicle or, in the case of a repeat
+HB1 INTRODUCED
+505 offender, if the repeat offender has a functioning ignition
+506 interlock device installed on the designated vehicle for the
+507 duration of the offender's driver's driver license suspension
+508 period.
+509 (r)(1) Any person ordered by the court to have an
+510 ignition interlock device installed on a designated vehicle,
+511 and any person who elects to have the ignition interlock
+512 device installed on a designated vehicle for the purpose of
+513 reducing a period of suspension or revocation of his or her
+514 driver's driver license, shall pay to the court, following his
+515 or her conviction, two hundred dollars ($200), which may be
+516 paid in installments and which shall be divided as follows:
+517 a. Seventeen percent to the Alabama Interlock Indigent
+518 Fund.
+519 b. For cases in the district or circuit court, 30
+520 percent to the State Judicial Administration Fund administered
+521 by the Administrative Office of Courts and for cases in the
+522 municipal court, 30 percent to the municipal judicial
+523 administration fund of the municipality where the municipal
+524 court is located to be used for the operation of the municipal
+525 court.
+526 c. Thirty percent to the Highway Traffic Safety Fund
+527 administered by the Alabama State Law Enforcement Agency.
+528 d. Twenty-three percent to the District Attorney's
+529 Solicitor Fund.
+530 (2) In addition to paying the court clerk the fee
+531 required above following the conviction or the voluntary
+532 installation of the ignition interlock device, the defendant
+Page 19
+installation of the ignition interlock device, the defendant
+HB1 INTRODUCED
+533 shall pay all costs associated with the installation,
+534 purchase, maintenance, or lease of the ignition interlock
+535 devices to an approved ignition interlock provider pursuant to
+536 the rules of the Department of Forensic Sciences, unless the
+537 defendant is subject to Section 32-5A-191.4(i)(4).
+538 (s) The defendant shall designate the vehicle to be
+539 used by identifying the vehicle by the vehicle identification
+540 number to the court. The defendant, at his or her own expense,
+541 may designate additional motor vehicles on which an ignition
+542 interlock device may be installed for the use of the
+543 defendant.
+544 (t)(1) Any person who is required to comply with the
+545 ignition interlock provisions of this section as a condition
+546 of restoration or reinstatement of his or her driver's driver
+547 license, shall only operate the designated vehicle equipped
+548 with a functioning ignition interlock device for the period of
+549 time consistent with the offense for which he or she was
+550 convicted as provided for in this section.
+551 (2) The duration of the time an ignition interlock
+552 device is required by this section shall be one year if the
+553 offender refused the prescribed chemical test for
+554 intoxication.
+555 (u)(1)a. The Alabama State Law Enforcement Agency may
+556 set a fee of not more than one hundred fifty dollars ($150)
+557 for the issuance of a driver's driver license indicating that
+558 the person's driving privileges are subject to the condition
+559 of the installation and use of a certified ignition interlock
+560 device on a motor vehicle.
+Page 20
+device on a motor vehicle.
+HB1 INTRODUCED
+561 b. Fifteen percent of the fee shall be distributed to
+562 the general fund of the county where the person was convicted
+563 to be utilized for law enforcement purposes.
+564 c. Eighty-five percent shall be distributed to the
+565 State General Fund.
+566 d. In addition, at the end of the time the person's
+567 driving privileges are subject to the above conditions, the
+568 agency shall set a fee of not more than seventy-five dollars
+569 ($75) to reissue a regular driver's driver license.
+570 e. The fee shall be deposited as provided in Sections
+571 32-6-5, 32-6-6, and 32-6-6.1.
+572 (2) The defendant shall provide proof of installation
+573 of an approved ignition interlock device to the Alabama State
+574 Law Enforcement Agency as a condition of the issuance of a
+575 restricted driver's driver license.
+576 (3) Any ignition interlock driving violation committed
+577 by the offender during the mandated ignition interlock period
+578 shall extend the duration of ignition interlock use for six
+579 months. Ignition interlock driving violations include any of
+580 the following:
+581 a. A breath sample at or above a minimum blood alcohol
+582 concentration level of 0.02 recorded four or more times during
+583 the monthly reporting period unless a subsequent test
+584 performed within 10 minutes registers a breath alcohol
+585 concentration lower than 0.02.
+586 b. Any tampering, circumvention, or bypassing of the
+587 ignition interlock device, or attempt thereof.
+588 c. Failure to comply with the servicing or calibration
+Page 21
+c. Failure to comply with the servicing or calibration
+HB1 INTRODUCED
+589 requirements of the ignition interlock device every 30 days.
+590 (v) Nothing in this section and Section 32-5A-191.4
+591 shall require an employer to install an ignition interlock
+592 device in a vehicle owned or operated by the employer for use
+593 by an employee required to use the device as a condition of
+594 driving pursuant to this section and Section 32-5A-191.4.
+595 (w) The provisions in this section and Section
+596 32-5A-191.4 relating to ignition interlock devices shall not
+597 apply to persons who commit violations of this section while
+598 under 19 years of age and who are adjudicated in juvenile
+599 court, unless specifically ordered otherwise by the court.
+600 (x)(1) The amendatory language in Act 2014-222 to this
+601 section, authorizing the Alabama State Law Enforcement Agency
+602 to stay a driver's driver license suspension or revocation
+603 upon compliance with the ignition interlock requirement shall
+604 apply retroactively if any of the following occurs:
+605 a. The offender files an appeal with the court of
+606 jurisdiction requesting all prior suspensions or revocation,
+607 or both, be stayed upon compliance with the ignition interlock
+608 requirement.
+609 b. The offender wins appeal with the court of
+610 jurisdiction relating to this section.
+611 c. The court of jurisdiction notifies the Alabama State
+612 Law Enforcement Agency that the offender is eligible to have
+613 the driver's driver license stayed.
+614 d. The Alabama State Law Enforcement Agency issues an
+615 ignition interlock restricted driver's driver license.
+616 e. The offender remains in compliance of ignition
+Page 22
+e. The offender remains in compliance of ignition
+HB1 INTRODUCED
+617 interlock requirements.
+618 (2) The remainder of the driver license revocation,
+619 suspension, or both, shall be commuted upon the successful
+620 completion of the period of time in which the ignition
+621 interlock device is mandated to be installed and operational.
+622 (y) Pursuant to Section 15-22-54, the maximum probation
+623 period for persons convicted under this section shall be
+624 extended until all ignition interlock requirements have been
+625 completed by the offender.
+626 (z) Notwithstanding the ignition interlock requirements
+627 of this section, no person may be required to install an
+628 ignition interlock device if there is not a certified ignition
+629 interlock provider available within a 50 mile radius of his or
+630 her place of residence or, place of business, or place of
+631 employment."
+632 Section 2. This act shall become effective on October
+633 1, 2026.
+Page 23
+[DELETED: 1I,F]
+
+
+================================================================================
+
+Raw Text:
+HB1 INTRODUCED
+1 HB1
+2 U9QASDG-1
+3 By Representatives Boyd, Forte, Warren, Jackson, Chestnut,
+4 England, Hollis, Gray, McClammy, Lands, Travis, Ensler,
+5 Tillman, Jones, Hassell
+6 RFD: Public Safety and Homeland Security
+7 First Read: 13-Jan-26
+8 PFD: 25-Jun-25
+Page 0
+
+PFD: 25-Jun-25
+U9QASDG-1 06/04/2025 THR (L)THR 2025-1833
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person convicted of
+6 driving under the influence for the first time may have
+7 his or her mandatory 90-day driver license suspension
+8 stayed if he or she has an approved ignition interlock
+9 device installed and operating on his or her designated
+10 motor vehicle for 90 days.
+11 This bill would require a person convicted of
+12 driving under the influence for the first time to have
+13 an approved ignition interlock device installed and
+14 operating on his or her motor vehicle for six months.
+15 This bill would also make conforming changes.
+16
+17
+18 A BILL
+19 TO BE ENTITLED
+20 AN ACT
+21
+22 Relating to motor vehicles; to amend Section 32-5A-191,
+23 Code of Alabama 1975; to require an ignition interlock device
+24 for the first violation of driving while under the influence.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. Section 32-5A-191, Code of Alabama 1975, is
+27 amended to read as follows:
+28 "§32-5A-191
+Page 1
+
+"§32-5A-191
+HB1 INTRODUCED
+29 (a) A person shall not drive or be in actual physical
+30 control of any vehicle while:
+31 (1) There is 0.08 percent or more by weight of alcohol
+32 in his or her blood;
+33 (2) Under the influence of alcohol;
+34 (3) Under the influence of a controlled substance to a
+35 degree which renders him or her incapable of safely driving;
+36 (4) Under the combined influence of alcohol and a
+37 controlled substance to a degree which renders him or her
+38 incapable of safely driving; or
+39 (5) Under the influence of any substance which impairs
+40 the mental or physical faculties of such person to a degree
+41 which that renders him or her incapable of safely driving.
+42 (b)(1) A person who is under the age of 21 years of age
+43 shall not drive or be in actual physical control of any
+44 vehicle if there is 0.02 percent or more by weight of alcohol
+45 in his or her blood.
+46 (2) The Alabama State Law Enforcement Agency shall
+47 suspend or revoke the driver's driver license of any person,
+48 including, but not limited to, a juvenile, child, or youthful
+49 offender, convicted or adjudicated of, or subjected to a
+50 finding of, delinquency based on this subsection.
+51 (3) Notwithstanding the foregoing, upon the first
+52 violation of this subsection by a person whose blood alcohol
+53 level is between 0.02 and 0.08, the person's driver's driver
+54 license or driving privilege shall be suspended for a period
+55 of 30 days in lieu of any penalties provided in subsection (e)
+56 of this section, and there shall be no disclosure, other than
+Page 2
+
+of this section, and there shall be no disclosure, other than
+HB1 INTRODUCED
+57 to courts, law enforcement agencies, the person's attorney of
+58 record, and the person's employer, by any entity or person of
+59 any information, documents, or records relating to the
+60 person's arrest, conviction, or adjudication of or finding of
+61 delinquency based on this subsection.
+62 (4) All persons, except as otherwise provided in this
+63 subsection for a first offense, including, but not limited to,
+64 a juvenile, child, or youthful offender, convicted or
+65 adjudicated of or subjected to a finding of delinquency based
+66 on this subsection shall be fined pursuant to this section,
+67 notwithstanding any other law to the contrary, and the person
+68 shall also be required to attend and complete a DUI or
+69 substance abuse court referral program in accordance with
+70 subsection (k).
+71 (c)(1) A school bus or day care driver shall not drive
+72 or be in actual physical control of any vehicle while in
+73 performance of his or her duties if there is greater than 0.02
+74 percent by weight of alcohol in his or her blood. A person
+75 convicted pursuant to this subsection shall be subject to the
+76 penalties provided by this section, except that on the first
+77 conviction the Secretary of the Alabama State Law Enforcement
+78 Agency shall suspend the driving privilege or driver's driver
+79 license for a period of one year.
+80 (2) A person shall not drive or be in actual physical
+81 control of a commercial motor vehicle, as defined in 49 CFR
+82 C.F.R. Part § 383.5 of the Federal Motor Carrier Safety
+83 Regulations as adopted pursuant to Section 32-9A-2, if there
+84 is 0.04 percent or greater by weight of alcohol in his or her
+Page 3
+
+is 0.04 percent or greater by weight of alcohol in his or her
+HB1 INTRODUCED
+85 blood. Notwithstanding the other provisions of this section,
+86 the commercial driver's driver license or commercial driving
+87 privilege of a person convicted of violating this subdivision
+88 shall be disqualified for the period provided in accordance
+89 with 49 CFR Part C.F.R. § 383.51, as applicable, and the
+90 person's regular driver's driver license or privilege to drive
+91 a regular motor vehicle shall be governed by the remainder of
+92 this section if the person is guilty of a violation of another
+93 provision of this section.
+94 (3) Any commutation of suspension or revocation time as
+95 it relates to a court order, approval, and installation of an
+96 ignition interlock device shall not apply to commercial
+97 driving privileges or disqualifications.
+98 (d) The fact that any person charged with violating
+99 this section is or has been legally entitled to use alcohol or
+100 a controlled substance shall not constitute a defense against
+101 any charge of violating this section.
+102 (e)(1)a. Upon first conviction, a person violating this
+103 section shall be punished by imprisonment in the county or
+104 municipal jail for not more than one year, or by fine of not
+105 less than six hundred dollars ($600) nor more than two
+106 thousand one hundred dollars ($2,100), or by both a fine and
+107 imprisonment.
+108 b. In addition, on a first conviction, the Secretary of
+109 the Alabama State Law Enforcement Agency shall suspend the
+110 driving privilege or driver's driver license of the person
+111 convicted for a period of 90 days., The 90-day suspension
+112 shall be stayed if the offender elects and the person shall
+Page 4
+
+shall be stayed if the offender elects and the person shall
+HB1 INTRODUCED
+113 be required to have an approved ignition interlock device
+114 installed and operating on the designated motor vehicle driven
+115 by the offender for 90 dayssix months.
+116 c. The offender shall present proof of installation of
+117 the approved ignition interlock device to the Alabama State
+118 Law Enforcement Agency and obtain an ignition interlock
+119 restricted driver license. The remainder of the suspension
+120 shall be commuted upon the successful completion of the
+121 elected use, mandated use, or both, of the ignition interlock
+122 device.
+123 (2)a. If, on a first conviction, any person refusing to
+124 provide a blood alcohol concentration or if a child under the
+125 age of 14 years of age was a passenger in the vehicle at the
+126 time of the offense or if someone else besides the offender
+127 was injured at the time of the offense, or if the offender is
+128 found to have had at least 0.15 percent or more by weight of
+129 alcohol in his or her blood while operating or being in actual
+130 control of a vehicle, the Secretary of the Alabama State Law
+131 Enforcement Agency shall suspend the driving privilege or
+132 driver's driver license of the person convicted for a period
+133 of 90 days and the person shall be required to have an
+134 ignition interlock device installed and operating on the
+135 designated motor vehicle driven by the offender for a period
+136 of one year from the date of issuance of a driver's driver
+137 license indicating that the person's driving privileges are
+138 subject to the condition of the installation and use of a
+139 certified ignition interlock device on a motor vehicle.
+140 b. After a minimum of 45 days of the license revocation
+Page 5
+
+b. After a minimum of 45 days of the license revocation
+HB1 INTRODUCED
+141 or suspension pursuant to Section 32-5A-304 or this section,
+142 or both, is completed, upon receipt of a court order from the
+143 convicting court, upon issuance of an ignition interlock
+144 restricted driver license, and upon proof of installation of
+145 an operational approved ignition interlock device on the
+146 designated vehicle of the person convicted, the mandated
+147 ignition interlock period of one year provided in this
+148 subsection shall start and the suspension period, revocation
+149 period, or both, as required under this subsection shall be
+150 stayed.
+151 c. The remainder of the driver license revocation
+152 period, suspension period, or both, shall be commuted upon the
+153 successful completion of the period of time in which the
+154 ignition interlock device is mandated to be installed and
+155 operational.
+156 (f)(1) On a second conviction, a person convicted of
+157 violating this section shall be punished by a fine of not less
+158 than one thousand one hundred dollars ($1,100) nor more than
+159 five thousand one hundred dollars ($5,100) and by
+160 imprisonment, which may include hard labor in the county or
+161 municipal jail for not more than one year.
+162 (2) The sentence shall include a mandatory sentence,
+163 which is not subject to suspension or probation, of
+164 imprisonment in the county or municipal jail for not less than
+165 five days or community service for not less than 30 days.
+166 (3) In addition, the Secretary of the Alabama State Law
+167 Enforcement Agency shall revoke the driving privileges or
+168 driver's driver license of the person convicted for a period
+Page 6
+
+driver's driver license of the person convicted for a period
+HB1 INTRODUCED
+169 of one year, and the offender shall be required to have an
+170 ignition interlock device installed and operating on the
+171 designated motor vehicle driven by the offender for a period
+172 of two years from the date of issuance of a driver's driver
+173 license indicating that the person's driving privileges are
+174 subject to the condition of the installation and use of a
+175 certified ignition interlock device on a motor vehicle.
+176 (4) After a minimum of 45 days of the license
+177 revocation or suspension pursuant to Section 32-5A-304, this
+178 section, or both, is completed, upon receipt of a court order
+179 from the convicting court, upon issuance of an ignition
+180 interlock restricted driver license, and upon proof of
+181 installation of an operational approved ignition interlock
+182 device on the designated vehicle of the person convicted, the
+183 mandated ignition interlock period of two years approved in
+184 this subsection shall start and the suspension period,
+185 revocation period, or both, as required under this subsection
+186 shall be stayed.
+187 (5) The remainder of the driver license revocation
+188 period, suspension period, or both, shall be commuted upon the
+189 successful completion of the period of time in which the
+190 ignition interlock device is mandated to be installed and
+191 operational.
+192 (g)(1) On a third conviction, a person convicted of
+193 violating this section shall be punished by a fine of not less
+194 than two thousand one hundred dollars ($2,100) nor more than
+195 ten thousand one hundred dollars ($10,100) and by
+196 imprisonment, which may include hard labor, in the county or
+Page 7
+
+imprisonment, which may include hard labor, in the county or
+HB1 INTRODUCED
+197 municipal jail for not less than 60 days nor more than one
+198 year, to include a minimum of 60 days which shall be served in
+199 the county or municipal jail and cannot be probated or
+200 suspended.
+201 (2) In addition, the Secretary of the Alabama State Law
+202 Enforcement Agency shall revoke the driving privilege or
+203 driver's driver license of the person convicted for a period
+204 of three years and the offender shall be required to have an
+205 ignition interlock device installed and operating on the
+206 designated motor vehicle driven by the offender for a period
+207 of three years from the date of issuance of a driver's driver
+208 license indicating that the person's driving privileges are
+209 subject to the condition of the installation and use of a
+210 certified ignition interlock device on a motor vehicle.
+211 (3) After a minimum of 60 days of the license
+212 revocation or suspension pursuant to Section 32-5A-304, this
+213 section, or both, is completed, upon receipt of a court order
+214 from the convicting court, upon issuance of an ignition
+215 interlock restricted driver license, and upon proof of
+216 installation of an operational approved ignition interlock
+217 device on the designated vehicle of the person convicted, the
+218 mandated ignition interlock period of three years provided in
+219 this subsection shall start and the suspension period,
+220 revocation period, or both, as required under this subsection
+221 shall be stayed.
+222 (4) The remainder of the driver license revocation
+223 period, suspension period, or both, shall be commuted upon the
+224 successful completion of the period of time in which the
+Page 8
+
+successful completion of the period of time in which the
+HB1 INTRODUCED
+225 ignition interlock device is mandated to be installed and
+226 operational.
+227 (h)(1) On a fourth or subsequent conviction, or if the
+228 person has a previous felony DUI conviction, a person
+229 convicted of violating this section shall be guilty of a Class
+230 C felony and punished by a fine of not less than four thousand
+231 one hundred dollars ($4,100) nor more than ten thousand one
+232 hundred dollars ($10,100) and by imprisonment of not less than
+233 one year and one day nor more than 10 years.
+234 (2) Any term of imprisonment may include hard labor for
+235 the county or state, and where imprisonment does not exceed
+236 three years, confinement may be in the county jail.
+237 (3) Where imprisonment does not exceed one year and one
+238 day, confinement shall be in the county jail.
+239 (4) The minimum sentence shall include a term of
+240 imprisonment for at least one year and one day; provided,
+241 however, that there shall be a minimum mandatory sentence of
+242 10 days which shall be served in the county jail.
+243 (5) The remainder of the sentence may be suspended or
+244 probated, but only if, as a condition of probation, the
+245 defendant enrolls and successfully completes a state certified
+246 chemical dependency program recommended by the court referral
+247 officer and approved by the sentencing court.
+248 (6) Where probation is granted, the sentencing court
+249 may, in its discretion, and where monitoring equipment is
+250 available, place the defendant on house arrest under
+251 electronic surveillance during the probationary term.
+252 (7) In addition to the other penalties authorized, the
+Page 9
+
+(7) In addition to the other penalties authorized, the
+HB1 INTRODUCED
+253 Secretary of the Alabama State Law Enforcement Agency shall
+254 revoke the driving privilege or driver's driver license of the
+255 person convicted for a period of five years and the offender
+256 shall be required to have an ignition interlock device
+257 installed and operating on the designated motor vehicle driven
+258 by the offender for a period of four years from the date of
+259 issuance of a driver's driver license indicating that the
+260 person's driving privileges are subject to the condition of
+261 the installation and use of a certified ignition interlock
+262 device on a motor vehicle.
+263 (8) After a minimum of one year of the license
+264 revocation or suspension pursuant to Section 32-5A-304, this
+265 section, or both, is completed, upon receipt of a court order
+266 from the convicting court, upon issuance of an ignition
+267 interlock restricted driver license, and upon proof of
+268 installation of an operational approved ignition interlock
+269 device on the designated vehicle of the person convicted, the
+270 mandated ignition interlock period of four years provided in
+271 this subsection shall start and the suspension period,
+272 revocation period, or both, as required under this subsection
+273 shall be stayed.
+274 (9) The remainder of the driver license revocation
+275 period, suspension period, or both, shall be commuted upon the
+276 successful completion of the period of time in which the
+277 ignition interlock device is mandated to be installed and
+278 operational.
+279 (10)a. The Alabama habitual felony offender law shall
+280 not apply to a conviction of a felony pursuant to this
+Page 10
+
+not apply to a conviction of a felony pursuant to this
+HB1 INTRODUCED
+281 subsection, and a conviction of a felony pursuant to this
+282 subsection shall not be a felony conviction for purposes of
+283 the enhancement of punishment pursuant to Alabama's habitual
+284 felony offender law.
+285 b. However, prior misdemeanor or felony convictions for
+286 driving under the influence may be considered as part of the
+287 sentencing calculations or determinations under the Alabama
+288 Sentencing Guidelines or rules promulgated adopted by the
+289 Alabama Sentencing Commission.
+290 (i)(1) When any person convicted of violating this
+291 section is found to have had at least 0.15 percent or more by
+292 weight of alcohol in his or her blood while operating or being
+293 in actual physical control of a vehicle, he or she shall be
+294 sentenced to at least double the minimum punishment that the
+295 person would have received if he or she had had less than 0.15
+296 percent by weight of alcohol in his or her blood.
+297 (2) This subsection does not apply to the duration of
+298 time an ignition interlock device is required by this section.
+299 (3) If the adjudicated offense is a misdemeanor, the
+300 minimum punishment shall be imprisonment for one year, all of
+301 which may be suspended except as otherwise provided for in
+302 subsections (f) and (g).
+303 (j)(1) When any person over the age of 21 years of age
+304 is convicted of violating this section and it is found that a
+305 child under the age of 14 years of age was a passenger in the
+306 vehicle at the time of the offense, the person shall be
+307 sentenced to at least double the minimum punishment that the
+308 person would have received if the child had not been a
+Page 11
+
+person would have received if the child had not been a
+HB1 INTRODUCED
+309 passenger in the motor vehicle.
+310 (2) This subsection does not apply to the duration of
+311 time an ignition interlock device is required by this section.
+312 (k)(1)a. In addition to the penalties provided hereinin
+313 this section, any person convicted of violating this section
+314 shall be referred to the court referral officer for evaluation
+315 and referral to appropriate community resources.
+316 b. The defendant shall, at a minimum, be required to
+317 complete a DUI or substance abuse court referral program
+318 approved by the Administrative Office of Courts and operated
+319 in accordance with provisions of the Mandatory Treatment Act
+320 of 1990, Sections 12-23-1 to 12-23-19, inclusiveChapter 23 of
+321 Title 12.
+322 c. The Alabama State Law Enforcement Agency shall not
+323 reissue a driver's driver license to a person convicted under
+324 this section without receiving proof that the defendant has
+325 successfully completed the required program.
+326 (2)a. Upon conviction, the court shall notify the
+327 Alabama State Law Enforcement Agency if the person convicted
+328 is required to install and maintain an approved ignition
+329 interlock device.
+330 b. The agency shall suspend or revoke a person's
+331 driving privileges until completion of the mandatory
+332 suspension or revocation period required by this section, and
+333 clearance of all other suspensions, revocations,
+334 cancellations, or denials, and proof of installation of an
+335 approved ignition interlock device is presented to the agency.
+336 c. The agency shall not reissue a driver's driver
+Page 12
+
+c. The agency shall not reissue a driver's driver
+HB1 INTRODUCED
+337 license to a person who has been ordered by a court or is
+338 required by law to have the ignition interlock device
+339 installed until proof is presented that the person is eligible
+340 for reinstatement of driving privileges.
+341 d. Upon presentation of proof and compliance with all
+342 ignition interlock requirements, the agency shall issue a
+343 driver's driver license with a restriction indicating that the
+344 licensee may operate a motor vehicle only with the certified
+345 ignition interlock device installed and properly operating.
+346 e. If the licensee fails to maintain the approved
+347 ignition interlock device as required or is otherwise not in
+348 compliance with any order of the court, the court shall notify
+349 the agency of the noncompliance and the agency shall suspend
+350 the person's driving privileges until the agency receives
+351 notification from the court that the licensee is in
+352 compliance.
+353 f. The requirement that the licensee use the ignition
+354 interlock device may be removed only when the court of
+355 conviction confirms to the agency that the licensee is no
+356 longer subject to the ignition interlock device requirement.
+357 (l) Neither reckless driving nor any other traffic
+358 infraction is a lesser included offense under a charge of
+359 driving under the influence of alcohol or of a controlled
+360 substance.
+361 (m)(1) Except for fines collected for violations of
+362 this section charged pursuant to a municipal ordinance, fines
+363 collected for violations of this section shall be deposited to
+364 the State General Fund; however, beginning October 1, 1995, of
+Page 13
+
+the State General Fund; however, beginning October 1, 1995, of
+HB1 INTRODUCED
+365 any amount collected over two hundred fifty dollars ($250) for
+366 a first conviction, over five hundred dollars ($500) for a
+367 second conviction within 10 years, over one thousand dollars
+368 ($1,000) for a third conviction within 10 years, and over two
+369 thousand dollars ($2,000) for a fourth or subsequent
+370 conviction within 10 years, the first one hundred dollars
+371 ($100) of that additional amount shall be deposited to the
+372 Alabama Chemical Testing Training and Equipment Trust Fund,
+373 after three percent of the one hundred dollars ($100) is
+374 deducted for administrative costs, and beginning October 1,
+375 1997, and thereafter, the second one hundred dollars ($100) of
+376 that additional amount shall be deposited in the Alabama Head
+377 and Spinal Cord Injury Trust Fund after deducting five percent
+378 of the one hundred dollars ($100) for administrative costs and
+379 the remainder of the funds shall be deposited to the State
+380 General Fund.
+381 (2)a. Fines collected for violations of this section
+382 charged pursuant to a municipal ordinance where the total fine
+383 is paid at one time shall be deposited as follows: The first
+384 three hundred fifty dollars ($350) collected for a first
+385 conviction, the first six hundred dollars ($600) collected for
+386 a second conviction within 10 years, the first one thousand
+387 one hundred dollars ($1,100) collected for a third conviction,
+388 and the first two thousand one hundred dollars ($2,100)
+389 collected for a fourth or subsequent conviction shall be
+390 deposited to the State Treasury with the first one hundred
+391 dollars ($100) collected for each conviction credited to the
+392 Alabama Chemical Testing Training and Equipment Trust Fund and
+Page 14
+
+Alabama Chemical Testing Training and Equipment Trust Fund and
+HB1 INTRODUCED
+393 the second one hundred dollars ($100) to the Alabama Head and
+394 Spinal Cord Injury Trust Fund after deducting five percent of
+395 the one hundred dollars ($100) for administrative costs and
+396 depositing this amount in the general fund of the
+397 municipality, and the balance credited to the State General
+398 Fund.
+399 b. Any amounts collected over these amounts shall be
+400 deposited as otherwise provided by law.
+401 (3)a. Fines collected for violations of this section
+402 charged pursuant to a municipal ordinance, where the fine is
+403 paid on a partial or installment basis, shall be deposited as
+404 follows: The first two hundred dollars ($200) of the fine
+405 collected for any conviction shall be deposited to the State
+406 Treasury with the first one hundred dollars ($100) collected
+407 for any conviction credited to the Alabama Chemical Testing
+408 Training and Equipment Trust Fund and the second one hundred
+409 dollars ($100) for any conviction credited to the Alabama Head
+410 and Spinal Cord Injury Trust Fund after deducting five percent
+411 of the one hundred dollars ($100) for administrative costs and
+412 depositing this amount in the general fund of the
+413 municipality.
+414 b. The second three hundred dollars ($300) of the fine
+415 collected for a first conviction, the second eight hundred
+416 dollars ($800) collected for a second conviction, the second
+417 one thousand eight hundred dollars ($1,800) collected for a
+418 third conviction, and the second three thousand eight hundred
+419 dollars ($3,800) collected for a fourth conviction shall be
+420 divided with 50 percent of the funds collected to be deposited
+Page 15
+
+divided with 50 percent of the funds collected to be deposited
+HB1 INTRODUCED
+421 to the State Treasury to be credited to the State General Fund
+422 and 50 percent deposited as otherwise provided by law for
+423 municipal ordinance violations.
+424 c. Any amounts collected over these amounts shall be
+425 deposited as otherwise provided by law for municipal ordinance
+426 violations.
+427 (4) Notwithstanding any provision of law to the
+428 contrary, 90 percent of any fine assessed and collected for
+429 any DUI offense charged by municipal ordinance violation in
+430 district or circuit court shall be computed only on the amount
+431 assessed over the minimum fine authorized, and upon collection
+432 shall be distributed to the municipal general fund with the
+433 remaining 10 percent distributed to the State General Fund.
+434 (5)a. In addition to fines imposed pursuant to this
+435 subsection, a mandatory fee of one hundred dollars ($100)
+436 shall be collected from any individual who successfully
+437 completes any pretrial diversion or deferral program in any
+438 municipal, district, or circuit court where the individual was
+439 charged with a violation of this section or a corresponding
+440 municipal ordinance.
+441 b. The one hundred dollars ($100) shall be deposited
+442 into the Alabama Chemical Testing Training and Equipment Fund.
+443 (6)a. In addition to the fines and fees imposed
+444 pursuant to this subsection, a mandatory fee of one hundred
+445 dollars ($100) shall be collected from any individual who
+446 successfully completes any pretrial diversion or deferral
+447 program in any municipal, district, or circuit court where the
+448 individual was charged with a violation of this section or a
+Page 16
+
+individual was charged with a violation of this section or a
+HB1 INTRODUCED
+449 corresponding municipal ordinance.
+450 b. The one hundred dollars ($100) shall be deposited
+451 into the Alabama Head and Spinal Cord Injury Trust Fund.
+452 (n)(1) A person who has been arrested for violating
+453 this section shall not be released from jail under bond or
+454 otherwise, until there is less than the same percent by weight
+455 of alcohol in his or her blood as specified in subsection
+456 subdivision (a)(1) or, in the case of a person who is under
+457 the age of 21 years of age, subsection (b) hereof.
+458 (2)a. A judge may require an offender to install and
+459 use a certified ignition interlock device as a condition of
+460 bond. In that instance, the Secretary of the Alabama State Law
+461 Enforcement Agency shall issue the offender a restricted
+462 driver's license indicating the person's driving privileges
+463 are subject to the condition of the installation and use of a
+464 certified ignition interlock device on a motor vehicle.
+465 b. Any driver's driver license suspension or revocation
+466 period pursuant to Section 32-5A-304 shall be stayed during
+467 the period the offender is under the bond condition.
+468 c. The period of time the offender has the ignition
+469 interlock device installed as a condition of bond shall not be
+470 credited to any requirement to have an ignition interlock
+471 device upon conviction.
+472 (o) Upon verification that a defendant arrested
+473 pursuant to this section is currently on probation from
+474 another court of this state as a result of a conviction for
+475 any criminal offense, the prosecutor shall provide written or
+476 oral notification of the defendant's subsequent arrest and
+Page 17
+
+oral notification of the defendant's subsequent arrest and
+HB1 INTRODUCED
+477 pending prosecution to the court in which the prior conviction
+478 occurred.
+479 (p)(1) Except as provided in subdivision (2), a prior
+480 conviction for driving under the influence from this state, a
+481 municipality within this state, or another state or territory
+482 or a municipality of another state or territory shall be
+483 considered by a court for imposing a sentence pursuant to this
+484 section if the prior conviction occurred within 10 years of
+485 the date of the current offense.
+486 (2) If the person has a previous felony DUI conviction,
+487 then all of the person's subsequent DUI convictions shall be
+488 treated as felonies regardless of the date of the previous
+489 felony DUI conviction.
+490 (q) Any person convicted of driving under the influence
+491 of alcohol, or a controlled substance, or both, or any
+492 substance which impairs the mental or physical faculties in
+493 violation of this section, a municipal ordinance adopting this
+494 section, or a similar law from another state or territory or a
+495 municipality of another state or territory more than once in a
+496 10-year period shall have his or her motor vehicle
+497 registration for all vehicles owned by the repeat offender
+498 suspended by the Alabama Department of Revenue for the
+499 duration of the offender's driver's driver license suspension
+500 period, unless such action would impose an undue hardship to
+501 any individual, not including the repeat offender, who is
+502 completely dependent on the motor vehicle for the necessities
+503 of life, including any family member of the repeat offender
+504 and any co-owner of the vehicle or, in the case of a repeat
+Page 18
+
+and any co-owner of the vehicle or, in the case of a repeat
+HB1 INTRODUCED
+505 offender, if the repeat offender has a functioning ignition
+506 interlock device installed on the designated vehicle for the
+507 duration of the offender's driver's driver license suspension
+508 period.
+509 (r)(1) Any person ordered by the court to have an
+510 ignition interlock device installed on a designated vehicle,
+511 and any person who elects to have the ignition interlock
+512 device installed on a designated vehicle for the purpose of
+513 reducing a period of suspension or revocation of his or her
+514 driver's driver license, shall pay to the court, following his
+515 or her conviction, two hundred dollars ($200), which may be
+516 paid in installments and which shall be divided as follows:
+517 a. Seventeen percent to the Alabama Interlock Indigent
+518 Fund.
+519 b. For cases in the district or circuit court, 30
+520 percent to the State Judicial Administration Fund administered
+521 by the Administrative Office of Courts and for cases in the
+522 municipal court, 30 percent to the municipal judicial
+523 administration fund of the municipality where the municipal
+524 court is located to be used for the operation of the municipal
+525 court.
+526 c. Thirty percent to the Highway Traffic Safety Fund
+527 administered by the Alabama State Law Enforcement Agency.
+528 d. Twenty-three percent to the District Attorney's
+529 Solicitor Fund.
+530 (2) In addition to paying the court clerk the fee
+531 required above following the conviction or the voluntary
+532 installation of the ignition interlock device, the defendant
+Page 19
+
+installation of the ignition interlock device, the defendant
+HB1 INTRODUCED
+533 shall pay all costs associated with the installation,
+534 purchase, maintenance, or lease of the ignition interlock
+535 devices to an approved ignition interlock provider pursuant to
+536 the rules of the Department of Forensic Sciences, unless the
+537 defendant is subject to Section 32-5A-191.4(i)(4).
+538 (s) The defendant shall designate the vehicle to be
+539 used by identifying the vehicle by the vehicle identification
+540 number to the court. The defendant, at his or her own expense,
+541 may designate additional motor vehicles on which an ignition
+542 interlock device may be installed for the use of the
+543 defendant.
+544 (t)(1) Any person who is required to comply with the
+545 ignition interlock provisions of this section as a condition
+546 of restoration or reinstatement of his or her driver's driver
+547 license, shall only operate the designated vehicle equipped
+548 with a functioning ignition interlock device for the period of
+549 time consistent with the offense for which he or she was
+550 convicted as provided for in this section.
+551 (2) The duration of the time an ignition interlock
+552 device is required by this section shall be one year if the
+553 offender refused the prescribed chemical test for
+554 intoxication.
+555 (u)(1)a. The Alabama State Law Enforcement Agency may
+556 set a fee of not more than one hundred fifty dollars ($150)
+557 for the issuance of a driver's driver license indicating that
+558 the person's driving privileges are subject to the condition
+559 of the installation and use of a certified ignition interlock
+560 device on a motor vehicle.
+Page 20
+
+device on a motor vehicle.
+HB1 INTRODUCED
+561 b. Fifteen percent of the fee shall be distributed to
+562 the general fund of the county where the person was convicted
+563 to be utilized for law enforcement purposes.
+564 c. Eighty-five percent shall be distributed to the
+565 State General Fund.
+566 d. In addition, at the end of the time the person's
+567 driving privileges are subject to the above conditions, the
+568 agency shall set a fee of not more than seventy-five dollars
+569 ($75) to reissue a regular driver's driver license.
+570 e. The fee shall be deposited as provided in Sections
+571 32-6-5, 32-6-6, and 32-6-6.1.
+572 (2) The defendant shall provide proof of installation
+573 of an approved ignition interlock device to the Alabama State
+574 Law Enforcement Agency as a condition of the issuance of a
+575 restricted driver's driver license.
+576 (3) Any ignition interlock driving violation committed
+577 by the offender during the mandated ignition interlock period
+578 shall extend the duration of ignition interlock use for six
+579 months. Ignition interlock driving violations include any of
+580 the following:
+581 a. A breath sample at or above a minimum blood alcohol
+582 concentration level of 0.02 recorded four or more times during
+583 the monthly reporting period unless a subsequent test
+584 performed within 10 minutes registers a breath alcohol
+585 concentration lower than 0.02.
+586 b. Any tampering, circumvention, or bypassing of the
+587 ignition interlock device, or attempt thereof.
+588 c. Failure to comply with the servicing or calibration
+Page 21
+
+c. Failure to comply with the servicing or calibration
+HB1 INTRODUCED
+589 requirements of the ignition interlock device every 30 days.
+590 (v) Nothing in this section and Section 32-5A-191.4
+591 shall require an employer to install an ignition interlock
+592 device in a vehicle owned or operated by the employer for use
+593 by an employee required to use the device as a condition of
+594 driving pursuant to this section and Section 32-5A-191.4.
+595 (w) The provisions in this section and Section
+596 32-5A-191.4 relating to ignition interlock devices shall not
+597 apply to persons who commit violations of this section while
+598 under 19 years of age and who are adjudicated in juvenile
+599 court, unless specifically ordered otherwise by the court.
+600 (x)(1) The amendatory language in Act 2014-222 to this
+601 section, authorizing the Alabama State Law Enforcement Agency
+602 to stay a driver's driver license suspension or revocation
+603 upon compliance with the ignition interlock requirement shall
+604 apply retroactively if any of the following occurs:
+605 a. The offender files an appeal with the court of
+606 jurisdiction requesting all prior suspensions or revocation,
+607 or both, be stayed upon compliance with the ignition interlock
+608 requirement.
+609 b. The offender wins appeal with the court of
+610 jurisdiction relating to this section.
+611 c. The court of jurisdiction notifies the Alabama State
+612 Law Enforcement Agency that the offender is eligible to have
+613 the driver's driver license stayed.
+614 d. The Alabama State Law Enforcement Agency issues an
+615 ignition interlock restricted driver's driver license.
+616 e. The offender remains in compliance of ignition
+Page 22
+
+e. The offender remains in compliance of ignition
+HB1 INTRODUCED
+617 interlock requirements.
+618 (2) The remainder of the driver license revocation,
+619 suspension, or both, shall be commuted upon the successful
+620 completion of the period of time in which the ignition
+621 interlock device is mandated to be installed and operational.
+622 (y) Pursuant to Section 15-22-54, the maximum probation
+623 period for persons convicted under this section shall be
+624 extended until all ignition interlock requirements have been
+625 completed by the offender.
+626 (z) Notwithstanding the ignition interlock requirements
+627 of this section, no person may be required to install an
+628 ignition interlock device if there is not a certified ignition
+629 interlock provider available within a 50 mile radius of his or
+630 her place of residence or, place of business, or place of
+631 employment."
+632 Section 2. This act shall become effective on October
+633 1, 2026.
+Page 23
+
+[DELETED: 1I,F]

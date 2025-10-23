@@ -1,0 +1,367 @@
+Title: 6 unclaimed motor vehicle is required to report the
+Official Title: 6 unclaimed motor vehicle is required to report the
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 3 sections found
+
+================================================================================
+
+Section 1:
+HB42 INTRODUCED
+1 HB42
+2 CXLBDWQ-1
+3 By Representative Treadaway
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 18-Sep-25
+Page 0
+PFD: 18-Sep-25
+CXLBDWQ-1 09/04/2025 CMH (L)lg 2025-2635
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person in possession of an
+7 vehicle as unclaimed to the Department of Revenue
+8 within five calendar days after the vehicle was
+9 considered unclaimed.
+10 This bill would provide that a person in
+11 possession of a motor vehicle after towing the vehicle
+12 may report the vehicle as unclaimed immediately after
+13 towing the vehicle.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to unclaimed motor vehicles; to amend Section
+21 32-8-84, Code of Alabama 1975, to further provide for
+22 notification to the Department of Revenue of an unclaimed
+23 motor vehicle after the towing of the vehicle.
+24 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+25 Section 1. Section 32-8-84 of the Code of Alabama 1975,
+26 is amended to read as follows:
+27 "§32-8-84
+28 (a) The following shall be considered an unclaimed
+Page 1
+(a) The following shall be considered an unclaimed
+HB42 INTRODUCED
+29 motor vehicle:
+30 (1) A motor vehicle left unattended on a public road or
+31 highway for more than 48 hours.
+32 (2) A motor vehicle, not left on private property for
+33 repairs, that has remained on private or other public property
+34 for a period of more than 48 hours without the consent of the
+35 owner or lessee of the property.
+36 (3) A motor vehicle, left on private property for
+37 repairs, that has not been reclaimed within 48 hours from the
+38 latter of either the date the repairs were completed or the
+39 agreed upon redemption date.
+40 (b)(1) AExcept as otherwise provided in subdivision
+41 (2), a person, as defined in Section 40-12-240, in possession
+42 of an unclaimed motor vehicle shall report the motor vehicle
+43 as unclaimed to the Department of Revenue within five calendar
+44 days from the date the motor vehicle first was considered
+45 unclaimed.
+46 (2) A person in possession of a towed motor vehicle may
+47 report the vehicle to the Department of Revenue immediately
+48 after towing the vehicle.
+49 (3) The report shall be made in a manner as prescribed
+50 by the department on the Unclaimed/Abandoned Vehicle Portal
+51 maintained by the Department of Revenue.
+52 (c)(1) Upon receiving notice as required in subsection
+53 (b), the department shall place a 60-calendar day hold on the
+54 title record and no title shall be issued during that time
+55 period unless the title transaction occurred prior to the date
+56 the motor vehicle was deemed unclaimed or the motor vehicle
+Page 2
+the motor vehicle was deemed unclaimed or the motor vehicle
+HB42 INTRODUCED
+57 was returned to the recorded owner or lienholder of record, if
+58 any.
+59 (2) If the motor vehicle was returned to the recorded
+60 owner or lienholder of record, if any, prior to the conclusion
+61 of the hold period on the title record, the person who
+62 reported the motor vehicle as unclaimed shall report the
+63 return of the motor vehicle within five calendar days in a
+64 manner as prescribed by the department.
+65 (d)(1) A person in possession of an unclaimed motor
+66 vehicle, upon reporting the motor vehicle as unclaimed to the
+67 department, shall utilize the National Motor Vehicle Title
+68 Information System (NMVTIS) to determine the current title
+69 state of record or, if no current title exists for the motor
+70 vehicle, the most recent state of registration for the motor
+71 vehicle. Thereafter, the person shall submit a records request
+72 to the state of record within five calendar days from the date
+73 the motor vehicle was reported as unclaimed to the department.
+74 (2) The records request shall be sent to the current
+75 title state of record in order to obtain the name and address
+76 of the owner and lienholder of record, if any. If no current
+77 title exists, the records request shall be sent to the most
+78 recent state of registration in order to obtain the name and
+79 address of the owner.
+80 (3)a. In the event that no NMVTIS record exists and
+81 there is evidence that could be reasonably ascertained by the
+82 person indicating that the motor vehicle has been registered
+83 in another state, the person, within five calendar days from
+84 the date the motor vehicle was reported as unclaimed to the
+Page 3
+the date the motor vehicle was reported as unclaimed to the
+HB42 INTRODUCED
+85 department, shall submit a records request to the state of
+86 registration in order to obtain the name and address of the
+87 owner. Thereafter, the person shall send notice by certified
+88 mail with either return receipt requested or electronic
+89 delivery confirmation, within five calendar days from receipt
+90 of the title record, to the owner and lienholder of record, if
+91 any, or registration record, to the owner of record, advising
+92 the owner and lienholder of record, if any, of all of the
+93 following:
+94 1. theThe location of the motor vehicle,.
+95 2. The normal business hours of the facility holding
+96 the motor vehicle,.
+97 3. anyAny accrued charges or fees,.
+98 4. theThe daily storage rate,.
+99 5. and theThe mailing address and contact telephone
+100 number of the person in possession of the motor vehicle.
+101 b. The notice required in paragraph a. shall include
+102 the following language in no smaller than 10 point type: "If
+103 this motor vehicle is not redeemed by the recorded owner or
+104 lienholder of record within 30 calendar days from the date of
+105 this notice, the motor vehicle shall be considered abandoned
+106 as defined in Section 32-13-1, Code of Alabama 1975. The motor
+107 vehicle may then be sold pursuant to the provisions of the
+108 Alabama Abandoned Motor Vehicle Act as provided for in Title
+109 32, Chapter 13, Code of Alabama 1975."
+110 (4) A person who fails to report a motor vehicle as
+111 unclaimed or fails to notify the owner and lienholder of
+112 record, if any, in accordance with this subsection shall
+Page 4
+record, if any, in accordance with this subsection shall
+HB42 INTRODUCED
+113 forfeit all claims and liens for the motor vehicle's garaging,
+114 parking, and storage prior to the time the motor vehicle is
+115 reported as unclaimed; provided, however, failure to report
+116 shall not result in the forfeiture of claims and liens for the
+117 towing and repair of a motor vehicle.
+118 (e)(1) The department shall maintain and appropriately
+119 index public records of unclaimed motor vehicles reported to
+120 it pursuant to this section. The department may provide lists
+121 of the vehicle identification numbers for such the motor
+122 vehicles without fee in a manner as the department prescribes.
+123 (2) The department shall provide notice of unclaimed
+124 motor vehicles to law enforcement.
+125 (3) Notice shall also be provided to the person
+126 individual who reported the motor vehicle as unclaimed if it
+127 the motor vehicle has been reported as stolen to law
+128 enforcement.
+129 (f)(1) The department may suspend the registration of a
+130 vehicle whose theft or conversion is reported to it the
+131 department pursuant to this section. Until the department
+132 learns of itsthe recovery of the motor vehicle or that the
+133 report of itsthe motor vehicle's theft or conversion was
+134 erroneous, itthe department shall not issue a certificate of
+135 title for the motor vehicle.
+136 (2) A title shall be issued by the department in the
+137 name of an insurance company on a vehicle that is reported
+138 stolen when a settlement between the insured and his or herthe
+139 insured's insurance company has occurred. The title shall be
+140 issued electronically in the name of the insurance company
+Page 5
+issued electronically in the name of the insurance company
+HB42 INTRODUCED
+141 until the vehicle has been recovered, and, if recovered, the
+142 title may be issued in paper form."
+143 Section 2. This act shall become effective October 1,
+144 2026.
+Page 6
+[DELETED: 2I]
+[DELETED: )A]
+[DELETED: .a.t.a]
+
+
+================================================================================
+
+Raw Text:
+HB42 INTRODUCED
+1 HB42
+2 CXLBDWQ-1
+3 By Representative Treadaway
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 18-Sep-25
+Page 0
+
+PFD: 18-Sep-25
+CXLBDWQ-1 09/04/2025 CMH (L)lg 2025-2635
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, a person in possession of an
+6 unclaimed motor vehicle is required to report the
+7 vehicle as unclaimed to the Department of Revenue
+8 within five calendar days after the vehicle was
+9 considered unclaimed.
+10 This bill would provide that a person in
+11 possession of a motor vehicle after towing the vehicle
+12 may report the vehicle as unclaimed immediately after
+13 towing the vehicle.
+14
+15
+16 A BILL
+17 TO BE ENTITLED
+18 AN ACT
+19
+20 Relating to unclaimed motor vehicles; to amend Section
+21 32-8-84, Code of Alabama 1975, to further provide for
+22 notification to the Department of Revenue of an unclaimed
+23 motor vehicle after the towing of the vehicle.
+24 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+25 Section 1. Section 32-8-84 of the Code of Alabama 1975,
+26 is amended to read as follows:
+27 "§32-8-84
+28 (a) The following shall be considered an unclaimed
+Page 1
+
+(a) The following shall be considered an unclaimed
+HB42 INTRODUCED
+29 motor vehicle:
+30 (1) A motor vehicle left unattended on a public road or
+31 highway for more than 48 hours.
+32 (2) A motor vehicle, not left on private property for
+33 repairs, that has remained on private or other public property
+34 for a period of more than 48 hours without the consent of the
+35 owner or lessee of the property.
+36 (3) A motor vehicle, left on private property for
+37 repairs, that has not been reclaimed within 48 hours from the
+38 latter of either the date the repairs were completed or the
+39 agreed upon redemption date.
+40 (b)(1) AExcept as otherwise provided in subdivision
+41 (2), a person, as defined in Section 40-12-240, in possession
+42 of an unclaimed motor vehicle shall report the motor vehicle
+43 as unclaimed to the Department of Revenue within five calendar
+44 days from the date the motor vehicle first was considered
+45 unclaimed.
+46 (2) A person in possession of a towed motor vehicle may
+47 report the vehicle to the Department of Revenue immediately
+48 after towing the vehicle.
+49 (3) The report shall be made in a manner as prescribed
+50 by the department on the Unclaimed/Abandoned Vehicle Portal
+51 maintained by the Department of Revenue.
+52 (c)(1) Upon receiving notice as required in subsection
+53 (b), the department shall place a 60-calendar day hold on the
+54 title record and no title shall be issued during that time
+55 period unless the title transaction occurred prior to the date
+56 the motor vehicle was deemed unclaimed or the motor vehicle
+Page 2
+
+the motor vehicle was deemed unclaimed or the motor vehicle
+HB42 INTRODUCED
+57 was returned to the recorded owner or lienholder of record, if
+58 any.
+59 (2) If the motor vehicle was returned to the recorded
+60 owner or lienholder of record, if any, prior to the conclusion
+61 of the hold period on the title record, the person who
+62 reported the motor vehicle as unclaimed shall report the
+63 return of the motor vehicle within five calendar days in a
+64 manner as prescribed by the department.
+65 (d)(1) A person in possession of an unclaimed motor
+66 vehicle, upon reporting the motor vehicle as unclaimed to the
+67 department, shall utilize the National Motor Vehicle Title
+68 Information System (NMVTIS) to determine the current title
+69 state of record or, if no current title exists for the motor
+70 vehicle, the most recent state of registration for the motor
+71 vehicle. Thereafter, the person shall submit a records request
+72 to the state of record within five calendar days from the date
+73 the motor vehicle was reported as unclaimed to the department.
+74 (2) The records request shall be sent to the current
+75 title state of record in order to obtain the name and address
+76 of the owner and lienholder of record, if any. If no current
+77 title exists, the records request shall be sent to the most
+78 recent state of registration in order to obtain the name and
+79 address of the owner.
+80 (3)a. In the event that no NMVTIS record exists and
+81 there is evidence that could be reasonably ascertained by the
+82 person indicating that the motor vehicle has been registered
+83 in another state, the person, within five calendar days from
+84 the date the motor vehicle was reported as unclaimed to the
+Page 3
+
+the date the motor vehicle was reported as unclaimed to the
+HB42 INTRODUCED
+85 department, shall submit a records request to the state of
+86 registration in order to obtain the name and address of the
+87 owner. Thereafter, the person shall send notice by certified
+88 mail with either return receipt requested or electronic
+89 delivery confirmation, within five calendar days from receipt
+90 of the title record, to the owner and lienholder of record, if
+91 any, or registration record, to the owner of record, advising
+92 the owner and lienholder of record, if any, of all of the
+93 following:
+94 1. theThe location of the motor vehicle,.
+95 2. The normal business hours of the facility holding
+96 the motor vehicle,.
+97 3. anyAny accrued charges or fees,.
+98 4. theThe daily storage rate,.
+99 5. and theThe mailing address and contact telephone
+100 number of the person in possession of the motor vehicle.
+101 b. The notice required in paragraph a. shall include
+102 the following language in no smaller than 10 point type: "If
+103 this motor vehicle is not redeemed by the recorded owner or
+104 lienholder of record within 30 calendar days from the date of
+105 this notice, the motor vehicle shall be considered abandoned
+106 as defined in Section 32-13-1, Code of Alabama 1975. The motor
+107 vehicle may then be sold pursuant to the provisions of the
+108 Alabama Abandoned Motor Vehicle Act as provided for in Title
+109 32, Chapter 13, Code of Alabama 1975."
+110 (4) A person who fails to report a motor vehicle as
+111 unclaimed or fails to notify the owner and lienholder of
+112 record, if any, in accordance with this subsection shall
+Page 4
+
+record, if any, in accordance with this subsection shall
+HB42 INTRODUCED
+113 forfeit all claims and liens for the motor vehicle's garaging,
+114 parking, and storage prior to the time the motor vehicle is
+115 reported as unclaimed; provided, however, failure to report
+116 shall not result in the forfeiture of claims and liens for the
+117 towing and repair of a motor vehicle.
+118 (e)(1) The department shall maintain and appropriately
+119 index public records of unclaimed motor vehicles reported to
+120 it pursuant to this section. The department may provide lists
+121 of the vehicle identification numbers for such the motor
+122 vehicles without fee in a manner as the department prescribes.
+123 (2) The department shall provide notice of unclaimed
+124 motor vehicles to law enforcement.
+125 (3) Notice shall also be provided to the person
+126 individual who reported the motor vehicle as unclaimed if it
+127 the motor vehicle has been reported as stolen to law
+128 enforcement.
+129 (f)(1) The department may suspend the registration of a
+130 vehicle whose theft or conversion is reported to it the
+131 department pursuant to this section. Until the department
+132 learns of itsthe recovery of the motor vehicle or that the
+133 report of itsthe motor vehicle's theft or conversion was
+134 erroneous, itthe department shall not issue a certificate of
+135 title for the motor vehicle.
+136 (2) A title shall be issued by the department in the
+137 name of an insurance company on a vehicle that is reported
+138 stolen when a settlement between the insured and his or herthe
+139 insured's insurance company has occurred. The title shall be
+140 issued electronically in the name of the insurance company
+Page 5
+
+issued electronically in the name of the insurance company
+HB42 INTRODUCED
+141 until the vehicle has been recovered, and, if recovered, the
+142 title may be issued in paper form."
+143 Section 2. This act shall become effective October 1,
+144 2026.
+Page 6
+
+[DELETED: 2I]
+[DELETED: )A]
+[DELETED: .a.t.a]
