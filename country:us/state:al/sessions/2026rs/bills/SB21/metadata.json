@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "SB21",
+  "title": "Offices of Governor; Lieutenant Governor; Justice of the Alabama Supreme Court; judge of the Alabama Court of Civil Appeals or Court of Criminal Appeals; judge of a circuit court or district court; member of the Legislature; Attorney General; State Auditor; Secretary of State; State Treasurer; Commissioner of Agriculture and Industries; member of the State Board of Education; and local sheriff, district attorney, circuit clerk, or constable required to be held by a natural born citizen of the United States,",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "State & State Officers"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "State & State Officers"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-10-27T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T23:11:30Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (State Governmental Affairs)",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T23:11:30Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the Senate Committee on State Governmental Affairs",
+      "date": "2025-10-28T04:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-28T23:11:30Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chesteen",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Chesteen\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB21-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "20589621"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-28T23:11:30Z"
+  }
+}
