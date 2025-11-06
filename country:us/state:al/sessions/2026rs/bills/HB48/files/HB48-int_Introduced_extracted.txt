@@ -1,0 +1,249 @@
+Title: 6 System sends an alert to assist in the recovery of a
+Official Title: 6 System sends an alert to assist in the recovery of a
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB48 INTRODUCED
+1 HB48
+2 3PHK1ZV-1
+3 By Representative Givan
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+PFD: 05-Nov-25
+3PHK1ZV-1 09/10/2025 JWB (L)lg 2025-2621
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing federal law, the AMBER Alert
+7 child under 17 years of age who a law enforcement
+8 agency believes has been abducted and is in imminent
+9 danger of serious bodily injury or death.
+10 Under existing state law, the Missing and
+11 Endangered Persons Alert Act sends an alert when the
+12 Alabama State Law Enforcement Agency believes an
+13 individual has been abducted and has a reasonable
+14 belief that the individual is at risk of bodily harm or
+15 death.
+16 This bill would create an Ebony Alert System to
+17 send an alert to assist in the recovery of a Black
+18 youth or young adult, under certain circumstances.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to public safety; to create an Ebony Alert
+26 System to send an alert to assist in the recovery of a missing
+27 Black youth or young adult under certain circumstances.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+HB48 INTRODUCED
+29 Section 1. (a) For purposes of this section, "Ebony
+30 Alert" means a notification system, activated pursuant to
+31 subsection (b), designed to issue and coordinate alerts for
+32 Black youth, including young women and girls, who are reported
+33 missing under unexplained or suspicious circumstances.
+34 (b)(1) If an individual is reported missing to a law
+35 enforcement agency and that agency, referencing the factors in
+36 subsection (c), determines that an alert would assist in the
+37 search and rescue of the individual, the law enforcement
+38 agency may request the Alabama State Law Enforcement Agency
+39 (ALEA) to activate an Ebony Alert.
+40 (2) If ALEA concurs with the assessment of the factors
+41 in subsection (c), ALEA shall activate an Ebony Alert within
+42 the appropriate geographical area requested by the
+43 investigating law enforcement agency.
+44 (3) Radio, television, cable, satellite, and social
+45 media systems are encouraged to cooperate with disseminating
+46 the information contained in an Ebony Alert.
+47 (4) Upon activation of an Ebony Alert, ALEA shall
+48 assist the investigating law enforcement agency by issuing a
+49 be-on-the-lookout alert, an electronic flyer, or a changeable
+50 message sign in compliance with subdivision (5).
+51 (5) Upon activation of an Ebony Alert, ALEA may use a
+52 changeable message sign if both of the following conditions
+53 are met:
+54 a. A law enforcement agency determines that a vehicle
+55 may be involved in the incident.
+56 b. Specific identifying information about the vehicle
+Page 2
+b. Specific identifying information about the vehicle
+HB48 INTRODUCED
+57 is available for public dissemination.
+58 (c) A law enforcement agency may request that an Ebony
+59 Alert be activated if that agency determines that an Ebony
+60 Alert would be an effective tool in the investigation of
+61 missing Black youth, including a young woman or girl, after
+62 considering the following factors:
+63 (1) Whether the missing individual is between 12 and 25
+64 years of age.
+65 (2) Whether the missing individual suffers from a
+66 mental or physical disability.
+67 (3) Whether the individual is missing under
+68 circumstances that indicate any of the following:
+69 a. The missing individual's physical safety may be
+70 endangered.
+71 b. The disappearance of the missing individual may not
+72 have been voluntary, including an abduction or kidnapping.
+73 c. The missing individual may be subject to
+74 trafficking.
+75 (4) Whether the law enforcement agency determines that
+76 the individual has gone missing under unexplained or
+77 suspicious circumstances as determined by the investigation of
+78 the law enforcement agency.
+79 (5) Whether the law enforcement agency believes any of
+80 the following:
+81 a. The individual is in danger because of age, health,
+82 mental or physical disability, or environmental or weather
+83 related conditions.
+84 b. The individual is in the company of a potentially
+Page 3
+b. The individual is in the company of a potentially
+HB48 INTRODUCED
+85 dangerous individual.
+86 c. There are other factors indicating that the
+87 individual may be in peril.
+88 (6) Whether the investigating law enforcement agency
+89 has utilized available local resources.
+90 (7) Whether there is information available that, if
+91 disseminated to the public, could assist in the safe recovery
+92 of the missing individual.
+93 Section 2. This act shall become effective on October
+94 1, 2026.
+Page 4
+[DELETED: 8I]
+
+
+================================================================================
+
+Raw Text:
+HB48 INTRODUCED
+1 HB48
+2 3PHK1ZV-1
+3 By Representative Givan
+4 RFD: Public Safety and Homeland Security
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+
+PFD: 05-Nov-25
+3PHK1ZV-1 09/10/2025 JWB (L)lg 2025-2621
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing federal law, the AMBER Alert
+6 System sends an alert to assist in the recovery of a
+7 child under 17 years of age who a law enforcement
+8 agency believes has been abducted and is in imminent
+9 danger of serious bodily injury or death.
+10 Under existing state law, the Missing and
+11 Endangered Persons Alert Act sends an alert when the
+12 Alabama State Law Enforcement Agency believes an
+13 individual has been abducted and has a reasonable
+14 belief that the individual is at risk of bodily harm or
+15 death.
+16 This bill would create an Ebony Alert System to
+17 send an alert to assist in the recovery of a Black
+18 youth or young adult, under certain circumstances.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to public safety; to create an Ebony Alert
+26 System to send an alert to assist in the recovery of a missing
+27 Black youth or young adult under certain circumstances.
+28 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+Page 1
+
+BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+HB48 INTRODUCED
+29 Section 1. (a) For purposes of this section, "Ebony
+30 Alert" means a notification system, activated pursuant to
+31 subsection (b), designed to issue and coordinate alerts for
+32 Black youth, including young women and girls, who are reported
+33 missing under unexplained or suspicious circumstances.
+34 (b)(1) If an individual is reported missing to a law
+35 enforcement agency and that agency, referencing the factors in
+36 subsection (c), determines that an alert would assist in the
+37 search and rescue of the individual, the law enforcement
+38 agency may request the Alabama State Law Enforcement Agency
+39 (ALEA) to activate an Ebony Alert.
+40 (2) If ALEA concurs with the assessment of the factors
+41 in subsection (c), ALEA shall activate an Ebony Alert within
+42 the appropriate geographical area requested by the
+43 investigating law enforcement agency.
+44 (3) Radio, television, cable, satellite, and social
+45 media systems are encouraged to cooperate with disseminating
+46 the information contained in an Ebony Alert.
+47 (4) Upon activation of an Ebony Alert, ALEA shall
+48 assist the investigating law enforcement agency by issuing a
+49 be-on-the-lookout alert, an electronic flyer, or a changeable
+50 message sign in compliance with subdivision (5).
+51 (5) Upon activation of an Ebony Alert, ALEA may use a
+52 changeable message sign if both of the following conditions
+53 are met:
+54 a. A law enforcement agency determines that a vehicle
+55 may be involved in the incident.
+56 b. Specific identifying information about the vehicle
+Page 2
+
+b. Specific identifying information about the vehicle
+HB48 INTRODUCED
+57 is available for public dissemination.
+58 (c) A law enforcement agency may request that an Ebony
+59 Alert be activated if that agency determines that an Ebony
+60 Alert would be an effective tool in the investigation of
+61 missing Black youth, including a young woman or girl, after
+62 considering the following factors:
+63 (1) Whether the missing individual is between 12 and 25
+64 years of age.
+65 (2) Whether the missing individual suffers from a
+66 mental or physical disability.
+67 (3) Whether the individual is missing under
+68 circumstances that indicate any of the following:
+69 a. The missing individual's physical safety may be
+70 endangered.
+71 b. The disappearance of the missing individual may not
+72 have been voluntary, including an abduction or kidnapping.
+73 c. The missing individual may be subject to
+74 trafficking.
+75 (4) Whether the law enforcement agency determines that
+76 the individual has gone missing under unexplained or
+77 suspicious circumstances as determined by the investigation of
+78 the law enforcement agency.
+79 (5) Whether the law enforcement agency believes any of
+80 the following:
+81 a. The individual is in danger because of age, health,
+82 mental or physical disability, or environmental or weather
+83 related conditions.
+84 b. The individual is in the company of a potentially
+Page 3
+
+b. The individual is in the company of a potentially
+HB48 INTRODUCED
+85 dangerous individual.
+86 c. There are other factors indicating that the
+87 individual may be in peril.
+88 (6) Whether the investigating law enforcement agency
+89 has utilized available local resources.
+90 (7) Whether there is information available that, if
+91 disseminated to the public, could assist in the safe recovery
+92 of the missing individual.
+93 Section 2. This act shall become effective on October
+94 1, 2026.
+Page 4
+
+[DELETED: 8I]

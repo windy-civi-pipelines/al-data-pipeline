@@ -1,0 +1,212 @@
+Title: 5 This bill would require financial institutions
+Official Title: 5 This bill would require financial institutions
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB55 INTRODUCED
+1 HB55
+2 3PW4RZV-1
+3 By Representative Hollis
+4 RFD: Financial Services
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+PFD: 05-Nov-25
+3PW4RZV-1 10/28/2025 JWB (L)lg 2025-3170
+1
+2
+3
+4 SYNOPSIS:
+6 to allow mortgagors to make mortgage payments biweekly
+7 or semi-monthly and allow mortgagors to make additional
+8 payments to the mortgage principal.
+9
+10
+11 A BILL
+12 TO BE ENTITLED
+13 AN ACT
+14
+15 Relating to financial institutions; to require
+16 financial institutions to allow mortgagors to make biweekly or
+17 semi-monthly mortgage payments and additional payments to the
+18 mortgage principal.
+19 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+20 Section 1. (a) For purposes of this section, the
+21 following terms have the following meanings:
+22 (1) BIWEEKLY. Occurring every two weeks.
+23 (2) CONTRACTUAL MORTGAGE PAYMENT. The total amount of
+24 the monthly mortgage loan payment, comprised of the principal
+25 payment, interest payment, and any additional amounts being
+26 collected and held in an escrow account.
+27 (3) ESCROW AMOUNT. The amount of any additional funds
+28 that are collected by a financial institution pursuant to a
+Page 1
+that are collected by a financial institution pursuant to a
+HB55 INTRODUCED
+29 mortgage loan and set aside in an escrow account to cover
+30 future expenses, including property taxes and homeowners
+31 insurance.
+32 (4) ESCROW ANALYSIS. The accounting that a financial
+33 institution conducts pursuant to 12 C.F.R. § 1024.17 to
+34 determine the appropriate target balances, compute the
+35 borrower's monthly payments or deposits needed for the next
+36 year, and determine whether escrow shortages exist.
+37 (5) FINANCIAL INSTITUTION. Any bank, savings and loans
+38 association, or credit union operating in Alabama which is
+39 chartered under federal or state law.
+40 (6) MORTGAGOR. A person that borrows money by granting
+41 a mortgage or a successor in ownership of the real property
+42 described in the mortgage.
+43 (7) PRINCIPAL. The outstanding balance of the original
+44 mortgage loan granted by the mortgagor, exclusive of interest.
+45 (8) SEMI-MONTHLY. Occurring twice each month.
+46 (b) A financial institution shall allow a mortgagor who
+47 is in good standing on his or her mortgage to:
+48 (1) Make biweekly mortgage payments, in which any
+49 amount paid in excess of the total annual contractual mortgage
+50 payments due shall be applied to the mortgage loan principal;
+51 or
+52 (2) Make semi-monthly mortgage payments in the amount
+53 of half of the total monthly contractual mortgage payment due.
+54 (c) A financial institution shall allow any mortgagor
+55 to pay additional amounts to the mortgage loan principal,
+56 without the imposition of any penalty.
+Page 2
+without the imposition of any penalty.
+HB55 INTRODUCED
+57 (d) If at the time that the financial institution
+58 performs an escrow analysis the analysis projects an escrow
+59 shortage or otherwise results in an increase to escrow amount
+60 payments the financial institution shall:
+61 (1) Notify the mortgagor of the new contractual
+62 mortgage payment pursuant to 12 C.F.R. Part 1005 or 1024 and
+63 adjust the amount of the mortgagor's recurring payment amount,
+64 if any, in accordance with the payment change resulting from
+65 the escrow analysis; and
+66 (2) Apply any additional amounts paid by the mortgagor
+67 first to any unsatisfied escrow payments and then to the
+68 mortgage loan principal, without the imposition of any
+69 penalty.
+70 (e) The mortgagor may elect to submit a payment or
+71 payments to the financial institution to reduce or eliminate
+72 any projected escrow shortage. A mortgagor that elects to make
+73 additional escrow payments pursuant to this subsection shall
+74 notify the financial institution of his or her intent to make
+75 the payments. The payments shall be treated separately and
+76 independent of payments applied to the mortgage loan principal
+77 pursuant to subsection (c).
+78 Section 2. This act shall become effective on October
+79 1, 2026.
+Page 3
+[DELETED: 5I]
+
+
+================================================================================
+
+Raw Text:
+HB55 INTRODUCED
+1 HB55
+2 3PW4RZV-1
+3 By Representative Hollis
+4 RFD: Financial Services
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+
+PFD: 05-Nov-25
+3PW4RZV-1 10/28/2025 JWB (L)lg 2025-3170
+1
+2
+3
+4 SYNOPSIS:
+5 This bill would require financial institutions
+6 to allow mortgagors to make mortgage payments biweekly
+7 or semi-monthly and allow mortgagors to make additional
+8 payments to the mortgage principal.
+9
+10
+11 A BILL
+12 TO BE ENTITLED
+13 AN ACT
+14
+15 Relating to financial institutions; to require
+16 financial institutions to allow mortgagors to make biweekly or
+17 semi-monthly mortgage payments and additional payments to the
+18 mortgage principal.
+19 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+20 Section 1. (a) For purposes of this section, the
+21 following terms have the following meanings:
+22 (1) BIWEEKLY. Occurring every two weeks.
+23 (2) CONTRACTUAL MORTGAGE PAYMENT. The total amount of
+24 the monthly mortgage loan payment, comprised of the principal
+25 payment, interest payment, and any additional amounts being
+26 collected and held in an escrow account.
+27 (3) ESCROW AMOUNT. The amount of any additional funds
+28 that are collected by a financial institution pursuant to a
+Page 1
+
+that are collected by a financial institution pursuant to a
+HB55 INTRODUCED
+29 mortgage loan and set aside in an escrow account to cover
+30 future expenses, including property taxes and homeowners
+31 insurance.
+32 (4) ESCROW ANALYSIS. The accounting that a financial
+33 institution conducts pursuant to 12 C.F.R. § 1024.17 to
+34 determine the appropriate target balances, compute the
+35 borrower's monthly payments or deposits needed for the next
+36 year, and determine whether escrow shortages exist.
+37 (5) FINANCIAL INSTITUTION. Any bank, savings and loans
+38 association, or credit union operating in Alabama which is
+39 chartered under federal or state law.
+40 (6) MORTGAGOR. A person that borrows money by granting
+41 a mortgage or a successor in ownership of the real property
+42 described in the mortgage.
+43 (7) PRINCIPAL. The outstanding balance of the original
+44 mortgage loan granted by the mortgagor, exclusive of interest.
+45 (8) SEMI-MONTHLY. Occurring twice each month.
+46 (b) A financial institution shall allow a mortgagor who
+47 is in good standing on his or her mortgage to:
+48 (1) Make biweekly mortgage payments, in which any
+49 amount paid in excess of the total annual contractual mortgage
+50 payments due shall be applied to the mortgage loan principal;
+51 or
+52 (2) Make semi-monthly mortgage payments in the amount
+53 of half of the total monthly contractual mortgage payment due.
+54 (c) A financial institution shall allow any mortgagor
+55 to pay additional amounts to the mortgage loan principal,
+56 without the imposition of any penalty.
+Page 2
+
+without the imposition of any penalty.
+HB55 INTRODUCED
+57 (d) If at the time that the financial institution
+58 performs an escrow analysis the analysis projects an escrow
+59 shortage or otherwise results in an increase to escrow amount
+60 payments the financial institution shall:
+61 (1) Notify the mortgagor of the new contractual
+62 mortgage payment pursuant to 12 C.F.R. Part 1005 or 1024 and
+63 adjust the amount of the mortgagor's recurring payment amount,
+64 if any, in accordance with the payment change resulting from
+65 the escrow analysis; and
+66 (2) Apply any additional amounts paid by the mortgagor
+67 first to any unsatisfied escrow payments and then to the
+68 mortgage loan principal, without the imposition of any
+69 penalty.
+70 (e) The mortgagor may elect to submit a payment or
+71 payments to the financial institution to reduce or eliminate
+72 any projected escrow shortage. A mortgagor that elects to make
+73 additional escrow payments pursuant to this subsection shall
+74 notify the financial institution of his or her intent to make
+75 the payments. The payments shall be treated separately and
+76 independent of payments applied to the mortgage loan principal
+77 pursuant to subsection (c).
+78 Section 2. This act shall become effective on October
+79 1, 2026.
+Page 3
+
+[DELETED: 5I]

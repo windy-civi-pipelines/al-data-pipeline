@@ -1,0 +1,446 @@
+Title: 6 absentee ballot may only be delivered to the absentee
+Official Title: 6 absentee ballot may only be delivered to the absentee
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 2 sections found
+
+================================================================================
+
+Section 1:
+HB45 INTRODUCED
+1 HB45
+2 RBHG7YY-1
+3 By Representative Clarke
+4 RFD: Constitution, Campaigns and Elections
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+PFD: 05-Nov-25
+RBHG7YY-1 10/08/2025 JWB (L)lg 2025-2875
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an application for an
+7 election manager by the applicant. Also under existing
+8 law, an absentee ballot may only be delivered to the
+9 absentee election manager by the voter of the absentee
+10 ballot.
+11 This bill would allow a disabled voter to
+12 designate an individual to deliver to the absentee
+13 election manager the voter's application for an
+14 absentee ballot.
+15 This bill would define "disability."
+16 This bill would also make nonsubstantive,
+17 technical revisions to update the existing code
+18 language to current style.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to absentee voting; to amend Sections 17-11-4
+26 and 17-11-9, Code of Alabama 1975; to allow a disabled voter
+27 to designate an individual to deliver the voter's application
+28 for an absentee ballot to the absentee election manager; and
+Page 1
+for an absentee ballot to the absentee election manager; and
+HB45 INTRODUCED
+29 to make nonsubstantive, technical revisions to update the
+30 existing code language to current style.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Sections 17-11-4 and 17-11-9, Code of
+33 Alabama 1975, are amended to read as follows:
+34 "§17-11-4
+35 (a) The application required in Section 17-11-3 shall
+36 be in a form prescribed and designed by the Secretary of State
+37 and shall be used throughout the state. The application form
+38 shall contain and require all of the following:
+39 (1) That the applicant submit sufficient information to
+40 identify the applicant.
+41 (2) The applicant's name, residence address, and such
+42 other information as necessary to verify that the applicant is
+43 a registered voter.
+44 (3) A list of all felonies of moral turpitude, as
+45 provided in Section 17-3-30.1, and a requirement that the
+46 applicant declaredeclaration that he or shethe applicant is
+47 not barred from voting because of a disqualifying felony
+48 conviction or, if the applicant was convicted of a
+49 disqualifying felony, that the applicant's right to vote has
+50 been restored.
+51 (4) An explanation of penalties for violations of this
+52 section.
+53 (b)(1) Any applicant may receive assistance in filling
+54 out the application as he or she desires, but each application
+55 shall be manually signed by the applicant, under penalty of
+56 perjury, and if he or she signs by mark, the application shall
+Page 2
+perjury, and if he or she signs by mark, the application shall
+HB45 INTRODUCED
+57 also include the name of the witness and the witness's
+58 signature.
+59 (2) It shall be unlawful for any person to knowingly
+60 distribute an absentee ballot application to a voter which is
+61 prefilled with the voter's name or any other information
+62 required on the application form.
+63 (c)(1) Completed applications may be submitted to the
+64 absentee election manager in any of the following ways, as
+65 further provided by rule of the Secretary of State:
+66 a. The applicant delivering the application in person.
+67 b. The applicant mailing the application by U.S. mail.
+68 c. The applicant sending the application by commercial
+69 carrier.
+70 d. The applicant's designee delivering the application
+71 in person for any applicant who has a disability or who
+72 requires emergency treatment by a licensed physician within
+73 five days before an election pursuant to Section 17-11-3. For
+74 purposes of this paragraph, "disability" means a physical or
+75 mental impairment that substantially limits one or more major
+76 life activities of the applicant.
+77 (2) Except in situations governed by paragraph (1)d. or
+78 Section 17-11-3(f), it shall be unlawful for an individual to
+79 submit a completed absentee ballot application to the absentee
+80 election manager other than his or her own application, except
+81 that an application for a voter who requires emergency
+82 treatment by a licensed physician within five days before an
+83 election pursuant to Section 17-11-3 may be submitted to the
+84 absentee election manager by an individual designated by the
+Page 3
+absentee election manager by an individual designated by the
+HB45 INTRODUCED
+85 applicant.
+86 (d)(1) Except in situations governed by Section
+87 17-11-3(f), it shall be unlawful for a third party to
+88 knowingly receive a payment or gift for distributing,
+89 ordering, requesting, collecting, completing, prefilling,
+90 obtaining, or delivering a voter's absentee ballot
+91 application. Any person who violates this subdivision shall be
+92 guilty of a Class C felony.
+93 (2) Except in situations governed by Section
+94 17-11-3(f), it shall be unlawful for a person to knowingly pay
+95 or provide a gift to a third party to distribute, order,
+96 request, collect, prefill, complete, obtain, or deliver a
+97 voter's absentee ballot application. Any person who violates
+98 this subdivision shall be guilty of a Class B felony.
+99 (e) Any voter who requires assistance to vote by reason
+100 of blindness, disability, or inability to read or write may be
+101 given assistance by an individual of the voter's choice, other
+102 than the voter's employer or agent of that employer or officer
+103 or agent of the voter's union.
+104 (f) Voters voting by absentee ballot through the
+105 Uniformed and Overseas Citizens Absentee Voting Act are not
+106 subject to this section. The Secretary of State shall provide
+107 applications for absentee voting to military and overseas
+108 voters in accordance with Section 17-4-35."
+109 "§17-11-9
+110 (a)(1) Each prospective absentee voter who meets the
+111 requirements of this article shall be furnished with the
+112 absentee ballot herein provided for, together with two three
+Page 4
+absentee ballot herein provided for, together with two three
+HB45 INTRODUCED
+113 envelopes for returning his or her marked ballot and
+114 instructions for completing and returning the absentee ballot
+115 as well as instructions for correcting mistakes in completing
+116 ballots or obtaining a replacement ballot.
+117 One(2) The first envelope shall be a plainsecrecy
+118 envelope in which the ballot shall be sealed by the voter
+119 after he or she has marked it.
+120 (3) The second envelope shall be an affidavit envelope.
+121 The affidavit envelope shall have the voter's affidavit
+122 printed on the back and shall be large enough to seal the
+123 plain ballot envelope inside.
+124 (4) The secondthird envelope shall also be a return
+125 mail envelope. SuchThe return mail envelope shall be addressed
+126 on the front to the absentee election manager and shall be
+127 endorsed on the left-hand upper corner thereof as follows:
+128 "Absent Voter's Ballot. State, County, Municipal,
+129 General, Primary, or Special Election (as the case may be) to
+130 be held on the ___ day of ____, 2__ From ______ (name of
+131 voter), precinct or districts _________, County of _______,
+132 Alabama."
+133 (b)(1) After marking the ballot and subscribing the
+134 oath herein required, the voter shall: (i) seal his or her
+135 ballot in the plainsecrecy envelope,; (ii) place that plainthe
+136 secrecy envelope inside the affidavit envelope,; (iii)
+137 complete the affidavit, and have a notary public (or other
+138 officer authorized to acknowledge oaths) or two
+139 witnessesindividuals witness his or her signature to the
+140 affidavit, and forward it by United States; (iv) place the
+Page 5
+affidavit, and forward it by United States; (iv) place the
+HB45 INTRODUCED
+141 affidavit envelope inside the return mail envelope; and (v)
+142 hand deliver the return mail envelope to the absentee election
+143 manager or send the return mail envelope by U.S. mail or by
+144 commercial carrier to the absentee election manager or hand it
+145 to him or her in person.
+146 (2) Notwithstanding subdivision (1), a voter who has a
+147 disability may have his or her designee hand deliver the
+148 return mail envelope to the absentee election manager or send
+149 the return mail envelope by U.S. mail or by commercial
+150 carrier. For purposes of this subdivision, "disability" means
+151 a physical or mental impairment that substantially limits one
+152 or more major life activities of the voter.
+153 (c)(1) Notwithstanding the other provisions of this
+154 section, the absentee election manager shall determine whether
+155 an applicant for an absentee ballot is obligated to produce
+156 identification in accordance with Sections 17-9-30 and 17-10-1
+157 or reidentify in accordance with Chapter 4. For absentee
+158 applicants required to produce identification, a thirdan
+159 additional envelope of different color and sufficient size to
+160 enclose the first and secondsecrecy and affidavit envelopes
+161 shall be provided to the applicant along with instructions for
+162 including a proper form of identification in accordance with
+163 Sections 17-9-30 and 17-10-1.
+164 (2) For absentee applicants required to reidentify
+165 because they do not appear in the voting place for which they
+166 seek to vote but do appear in another voting place within the
+167 state voter registration list, the absentee election manager
+168 shall provide to the voter a thirdan additional envelope of
+Page 6
+shall provide to the voter a thirdan additional envelope of
+HB45 INTRODUCED
+169 different color and sufficient size to enclose the first and
+170 secondsecrecy and affidavit envelopes along with a voter
+171 reidentification form, a provisional voter affirmation, and
+172 instructions in accordance with Section 17-10-2. SuchThe
+173 ballot shall be treated as a provisional ballot and the term
+174 "Provisional" shall be marked on the second or affidavit
+175 envelope prior to transmitting the ballot to the voter.
+176 (3) Applicants for an absentee ballot who do not appear
+177 on the state voter registration list shall not be entitled to
+178 an absentee ballot."
+179 Section 2. This act shall become effective immediately
+180 upon its passage and approval by the Governor, or its
+181 otherwise becoming law.
+Page 7
+[DELETED: 5I]
+[DELETED: .S]
+
+
+================================================================================
+
+Raw Text:
+HB45 INTRODUCED
+1 HB45
+2 RBHG7YY-1
+3 By Representative Clarke
+4 RFD: Constitution, Campaigns and Elections
+5 First Read: 13-Jan-26
+6 PFD: 05-Nov-25
+Page 0
+
+PFD: 05-Nov-25
+RBHG7YY-1 10/08/2025 JWB (L)lg 2025-2875
+1
+2
+3
+4 SYNOPSIS:
+5 Under existing law, an application for an
+6 absentee ballot may only be delivered to the absentee
+7 election manager by the applicant. Also under existing
+8 law, an absentee ballot may only be delivered to the
+9 absentee election manager by the voter of the absentee
+10 ballot.
+11 This bill would allow a disabled voter to
+12 designate an individual to deliver to the absentee
+13 election manager the voter's application for an
+14 absentee ballot.
+15 This bill would define "disability."
+16 This bill would also make nonsubstantive,
+17 technical revisions to update the existing code
+18 language to current style.
+19
+20
+21 A BILL
+22 TO BE ENTITLED
+23 AN ACT
+24
+25 Relating to absentee voting; to amend Sections 17-11-4
+26 and 17-11-9, Code of Alabama 1975; to allow a disabled voter
+27 to designate an individual to deliver the voter's application
+28 for an absentee ballot to the absentee election manager; and
+Page 1
+
+for an absentee ballot to the absentee election manager; and
+HB45 INTRODUCED
+29 to make nonsubstantive, technical revisions to update the
+30 existing code language to current style.
+31 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+32 Section 1. Sections 17-11-4 and 17-11-9, Code of
+33 Alabama 1975, are amended to read as follows:
+34 "§17-11-4
+35 (a) The application required in Section 17-11-3 shall
+36 be in a form prescribed and designed by the Secretary of State
+37 and shall be used throughout the state. The application form
+38 shall contain and require all of the following:
+39 (1) That the applicant submit sufficient information to
+40 identify the applicant.
+41 (2) The applicant's name, residence address, and such
+42 other information as necessary to verify that the applicant is
+43 a registered voter.
+44 (3) A list of all felonies of moral turpitude, as
+45 provided in Section 17-3-30.1, and a requirement that the
+46 applicant declaredeclaration that he or shethe applicant is
+47 not barred from voting because of a disqualifying felony
+48 conviction or, if the applicant was convicted of a
+49 disqualifying felony, that the applicant's right to vote has
+50 been restored.
+51 (4) An explanation of penalties for violations of this
+52 section.
+53 (b)(1) Any applicant may receive assistance in filling
+54 out the application as he or she desires, but each application
+55 shall be manually signed by the applicant, under penalty of
+56 perjury, and if he or she signs by mark, the application shall
+Page 2
+
+perjury, and if he or she signs by mark, the application shall
+HB45 INTRODUCED
+57 also include the name of the witness and the witness's
+58 signature.
+59 (2) It shall be unlawful for any person to knowingly
+60 distribute an absentee ballot application to a voter which is
+61 prefilled with the voter's name or any other information
+62 required on the application form.
+63 (c)(1) Completed applications may be submitted to the
+64 absentee election manager in any of the following ways, as
+65 further provided by rule of the Secretary of State:
+66 a. The applicant delivering the application in person.
+67 b. The applicant mailing the application by U.S. mail.
+68 c. The applicant sending the application by commercial
+69 carrier.
+70 d. The applicant's designee delivering the application
+71 in person for any applicant who has a disability or who
+72 requires emergency treatment by a licensed physician within
+73 five days before an election pursuant to Section 17-11-3. For
+74 purposes of this paragraph, "disability" means a physical or
+75 mental impairment that substantially limits one or more major
+76 life activities of the applicant.
+77 (2) Except in situations governed by paragraph (1)d. or
+78 Section 17-11-3(f), it shall be unlawful for an individual to
+79 submit a completed absentee ballot application to the absentee
+80 election manager other than his or her own application, except
+81 that an application for a voter who requires emergency
+82 treatment by a licensed physician within five days before an
+83 election pursuant to Section 17-11-3 may be submitted to the
+84 absentee election manager by an individual designated by the
+Page 3
+
+absentee election manager by an individual designated by the
+HB45 INTRODUCED
+85 applicant.
+86 (d)(1) Except in situations governed by Section
+87 17-11-3(f), it shall be unlawful for a third party to
+88 knowingly receive a payment or gift for distributing,
+89 ordering, requesting, collecting, completing, prefilling,
+90 obtaining, or delivering a voter's absentee ballot
+91 application. Any person who violates this subdivision shall be
+92 guilty of a Class C felony.
+93 (2) Except in situations governed by Section
+94 17-11-3(f), it shall be unlawful for a person to knowingly pay
+95 or provide a gift to a third party to distribute, order,
+96 request, collect, prefill, complete, obtain, or deliver a
+97 voter's absentee ballot application. Any person who violates
+98 this subdivision shall be guilty of a Class B felony.
+99 (e) Any voter who requires assistance to vote by reason
+100 of blindness, disability, or inability to read or write may be
+101 given assistance by an individual of the voter's choice, other
+102 than the voter's employer or agent of that employer or officer
+103 or agent of the voter's union.
+104 (f) Voters voting by absentee ballot through the
+105 Uniformed and Overseas Citizens Absentee Voting Act are not
+106 subject to this section. The Secretary of State shall provide
+107 applications for absentee voting to military and overseas
+108 voters in accordance with Section 17-4-35."
+109 "§17-11-9
+110 (a)(1) Each prospective absentee voter who meets the
+111 requirements of this article shall be furnished with the
+112 absentee ballot herein provided for, together with two three
+Page 4
+
+absentee ballot herein provided for, together with two three
+HB45 INTRODUCED
+113 envelopes for returning his or her marked ballot and
+114 instructions for completing and returning the absentee ballot
+115 as well as instructions for correcting mistakes in completing
+116 ballots or obtaining a replacement ballot.
+117 One(2) The first envelope shall be a plainsecrecy
+118 envelope in which the ballot shall be sealed by the voter
+119 after he or she has marked it.
+120 (3) The second envelope shall be an affidavit envelope.
+121 The affidavit envelope shall have the voter's affidavit
+122 printed on the back and shall be large enough to seal the
+123 plain ballot envelope inside.
+124 (4) The secondthird envelope shall also be a return
+125 mail envelope. SuchThe return mail envelope shall be addressed
+126 on the front to the absentee election manager and shall be
+127 endorsed on the left-hand upper corner thereof as follows:
+128 "Absent Voter's Ballot. State, County, Municipal,
+129 General, Primary, or Special Election (as the case may be) to
+130 be held on the ___ day of ____, 2__ From ______ (name of
+131 voter), precinct or districts _________, County of _______,
+132 Alabama."
+133 (b)(1) After marking the ballot and subscribing the
+134 oath herein required, the voter shall: (i) seal his or her
+135 ballot in the plainsecrecy envelope,; (ii) place that plainthe
+136 secrecy envelope inside the affidavit envelope,; (iii)
+137 complete the affidavit, and have a notary public (or other
+138 officer authorized to acknowledge oaths) or two
+139 witnessesindividuals witness his or her signature to the
+140 affidavit, and forward it by United States; (iv) place the
+Page 5
+
+affidavit, and forward it by United States; (iv) place the
+HB45 INTRODUCED
+141 affidavit envelope inside the return mail envelope; and (v)
+142 hand deliver the return mail envelope to the absentee election
+143 manager or send the return mail envelope by U.S. mail or by
+144 commercial carrier to the absentee election manager or hand it
+145 to him or her in person.
+146 (2) Notwithstanding subdivision (1), a voter who has a
+147 disability may have his or her designee hand deliver the
+148 return mail envelope to the absentee election manager or send
+149 the return mail envelope by U.S. mail or by commercial
+150 carrier. For purposes of this subdivision, "disability" means
+151 a physical or mental impairment that substantially limits one
+152 or more major life activities of the voter.
+153 (c)(1) Notwithstanding the other provisions of this
+154 section, the absentee election manager shall determine whether
+155 an applicant for an absentee ballot is obligated to produce
+156 identification in accordance with Sections 17-9-30 and 17-10-1
+157 or reidentify in accordance with Chapter 4. For absentee
+158 applicants required to produce identification, a thirdan
+159 additional envelope of different color and sufficient size to
+160 enclose the first and secondsecrecy and affidavit envelopes
+161 shall be provided to the applicant along with instructions for
+162 including a proper form of identification in accordance with
+163 Sections 17-9-30 and 17-10-1.
+164 (2) For absentee applicants required to reidentify
+165 because they do not appear in the voting place for which they
+166 seek to vote but do appear in another voting place within the
+167 state voter registration list, the absentee election manager
+168 shall provide to the voter a thirdan additional envelope of
+Page 6
+
+shall provide to the voter a thirdan additional envelope of
+HB45 INTRODUCED
+169 different color and sufficient size to enclose the first and
+170 secondsecrecy and affidavit envelopes along with a voter
+171 reidentification form, a provisional voter affirmation, and
+172 instructions in accordance with Section 17-10-2. SuchThe
+173 ballot shall be treated as a provisional ballot and the term
+174 "Provisional" shall be marked on the second or affidavit
+175 envelope prior to transmitting the ballot to the voter.
+176 (3) Applicants for an absentee ballot who do not appear
+177 on the state voter registration list shall not be entitled to
+178 an absentee ballot."
+179 Section 2. This act shall become effective immediately
+180 upon its passage and approval by the Governor, or its
+181 otherwise becoming law.
+Page 7
+
+[DELETED: 5I]
+[DELETED: .S]
