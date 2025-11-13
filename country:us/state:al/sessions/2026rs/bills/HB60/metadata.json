@@ -1,0 +1,101 @@
+{
+  "legislative_session": "2026rs",
+  "identifier": "HB60",
+  "title": "Criminal and Civil procedure; continuance of case when party, attorney, or witness is on active military duty; bail required to be set in such cases subject to conditions",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Courts & Judges"
+  ],
+  "abstracts": [
+    {
+      "note": "full subject",
+      "abstract": "Courts & Judges"
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed",
+      "date": "2025-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:11:49Z"
+      }
+    },
+    {
+      "description": "Pending Committee Action in House of Origin (Judiciary)",
+      "date": "2025-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:11:49Z"
+      }
+    },
+    {
+      "description": "Read for the first time and referred to the House Committee on Judiciary",
+      "date": "2025-11-13T05:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "reading-1",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-13T23:11:49Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tillman",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Tillman\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB60-int.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://alison.legislature.state.al.us/bill-search",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "AL_BILL_ID": "20704054"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:al/government",
+    "name": "Alabama",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:al"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-11-13T23:11:49Z"
+  }
+}
