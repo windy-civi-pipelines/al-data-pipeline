@@ -44,6 +44,11 @@
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
   },
+  "HB66": {
+    "session_id": "2026rs",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
   "HB47": {
     "session_id": "2026rs",
     "name": "2026 Regular Session",
@@ -185,6 +190,11 @@
     "date_folder": "2026-2026"
   },
   "SB7": {
+    "session_id": "2026rs",
+    "name": "2026 Regular Session",
+    "date_folder": "2026-2026"
+  },
+  "HB67": {
     "session_id": "2026rs",
     "name": "2026 Regular Session",
     "date_folder": "2026-2026"
