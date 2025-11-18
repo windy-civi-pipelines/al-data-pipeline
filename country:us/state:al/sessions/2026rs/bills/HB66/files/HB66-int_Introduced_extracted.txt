@@ -1,0 +1,235 @@
+Title: 8 This bill would require the Alabama State Law
+Official Title: 8 This bill would require the Alabama State Law
+Number of Sections: 2
+Source: versions - Introduced
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+HB66 INTRODUCED
+1 HB66
+2 W1JAJ5E-1
+3 By Representative Tillman
+4 RFD: Ways and Means General Fund
+5 First Read: 13-Jan-26
+6 PFD: 17-Nov-25
+Page 0
+PFD: 17-Nov-25
+W1JAJ5E-1 11/12/2025 GED (L)ma 2025-3205
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law provides for the requirements for
+6 the contents of a driver license and nondriver
+7 identification card.
+9 Enforcement Agency to establish a method for an
+10 individual to voluntarily designate on a driver license
+11 or nondriver identification card that the individual
+12 has been diagnosed with certain medical conditions.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to motor vehicles; to amend Section 32-6-6,
+20 Code of Alabama 1975, to require the Alabama State Law
+21 Enforcement Agency to establish a method for an individual to
+22 voluntarily designate on a driver license or nondriver
+23 identification card that the individual has certain medical
+24 conditions.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. This act shall be known and may be cited as
+27 the Driver Communication and Safety Enhancement Act.
+28 Section 2. Section 32-6-6, Code of Alabama 1975, is
+Page 1
+
+Section 2:
+Section 2. Section 32-6-6, Code of Alabama 1975, is
+HB66 INTRODUCED
+29 amended to read as follows:
+30 "§32-6-6
+31 (a) Each driver license issued by the Alabama State Law
+32 Enforcement Agency (ALEA), except temporary permits or other
+33 special circumstances as determined by the Secretary of the
+34 Alabama State Law Enforcement Agency, shall contain a
+35 distinguishing number assigned to the licensee and a color
+36 photograph of the licensee, the name, birthdate, address, and
+37 a description of the licensee., who, for For the purpose of
+38 identification and as a condition precedent to the validity of
+39 the license, immediately upon receipt of the license, the
+40 licensee shall endorse his or her usual or regular signature
+41 upon the license in the space provided, unless a facsimile of
+42 the licensee's signature appears on the license.
+43 (b) A photo driver license and photo nondriver
+44 identification card as provided in Section 32-6-4 shall have a
+45 photo core that meets the minimum width and length dimensions
+46 specified in ANSI standards X4.13-1971 and ANSI standard CR80,
+47 plus or minus 1/4 inch. In addition to all current and
+48 existing fees, the agencyALEA may charge an additional fee to
+49 recover the cost of producing and issuing photo driver
+50 licenses and photo nondriver identification cards. The fee may
+51 not exceed ten cents ($.10) ($0.10) over the actual cost of
+52 producing and issuing the license or card, including the cost
+53 of materials, labor costs, telecommunications costs, computer
+54 costs, postage, and any other costs incurred in producing and
+55 issuing a license or card.
+56 (c)(1) ALEA shall provide a method for an individual to
+Page 2
+(c)(1) ALEA shall provide a method for an individual to
+HB66 INTRODUCED
+57 voluntarily designate on his or her driver license or
+58 nondriver identification card that the individual has been
+59 diagnosed with an invisible medical condition. ALEA shall
+60 create a discrete symbol depicting the state flower, as
+61 designated in Section 1-2-11(a), to place on the license or
+62 card of the individual requesting the designation. ALEA may
+63 not charge a fee solely for the designation.
+64 (2) To receive the designation, the individual shall
+65 provide proof of the diagnosis from a physician licensed to
+66 practice medicine in this state.
+67 (c)(d) A driver license issued to a qualifying student
+68 described in Section 16-28-40(b) shall be exempt from any fees
+69 under this section.
+70 (d)(e) Revenues collected under this section shall be
+71 used by the agencyALEA for the sole purpose of this program,
+72 and any excess shall revert to the State General Fund at the
+73 end of each fiscal year.
+74 (f) For the purposes of this section, the term
+75 "invisible medical condition" means a physical or mental
+76 condition that may interfere with an individual's ability to
+77 communicate with a first responder, including:
+78 (1) A communication impediment;
+79 (2) Hearing loss;
+80 (3) Blindness or a visual impairment;
+81 (4) Autism spectrum disorder;
+82 (5) Traumatic brain injury;
+83 (6) Schizophrenia; or
+84 (7) A cognitive disability."
+Page 3
+(7) A cognitive disability."
+HB66 INTRODUCED
+85 Section 3. This act shall become effective on October
+86 1, 2026.
+Page 4
+[DELETED: 6I]
+
+
+================================================================================
+
+Raw Text:
+HB66 INTRODUCED
+1 HB66
+2 W1JAJ5E-1
+3 By Representative Tillman
+4 RFD: Ways and Means General Fund
+5 First Read: 13-Jan-26
+6 PFD: 17-Nov-25
+Page 0
+
+PFD: 17-Nov-25
+W1JAJ5E-1 11/12/2025 GED (L)ma 2025-3205
+1
+2
+3
+4 SYNOPSIS:
+5 Existing law provides for the requirements for
+6 the contents of a driver license and nondriver
+7 identification card.
+8 This bill would require the Alabama State Law
+9 Enforcement Agency to establish a method for an
+10 individual to voluntarily designate on a driver license
+11 or nondriver identification card that the individual
+12 has been diagnosed with certain medical conditions.
+13
+14
+15 A BILL
+16 TO BE ENTITLED
+17 AN ACT
+18
+19 Relating to motor vehicles; to amend Section 32-6-6,
+20 Code of Alabama 1975, to require the Alabama State Law
+21 Enforcement Agency to establish a method for an individual to
+22 voluntarily designate on a driver license or nondriver
+23 identification card that the individual has certain medical
+24 conditions.
+25 BE IT ENACTED BY THE LEGISLATURE OF ALABAMA:
+26 Section 1. This act shall be known and may be cited as
+27 the Driver Communication and Safety Enhancement Act.
+28 Section 2. Section 32-6-6, Code of Alabama 1975, is
+Page 1
+
+Section 2. Section 32-6-6, Code of Alabama 1975, is
+HB66 INTRODUCED
+29 amended to read as follows:
+30 "§32-6-6
+31 (a) Each driver license issued by the Alabama State Law
+32 Enforcement Agency (ALEA), except temporary permits or other
+33 special circumstances as determined by the Secretary of the
+34 Alabama State Law Enforcement Agency, shall contain a
+35 distinguishing number assigned to the licensee and a color
+36 photograph of the licensee, the name, birthdate, address, and
+37 a description of the licensee., who, for For the purpose of
+38 identification and as a condition precedent to the validity of
+39 the license, immediately upon receipt of the license, the
+40 licensee shall endorse his or her usual or regular signature
+41 upon the license in the space provided, unless a facsimile of
+42 the licensee's signature appears on the license.
+43 (b) A photo driver license and photo nondriver
+44 identification card as provided in Section 32-6-4 shall have a
+45 photo core that meets the minimum width and length dimensions
+46 specified in ANSI standards X4.13-1971 and ANSI standard CR80,
+47 plus or minus 1/4 inch. In addition to all current and
+48 existing fees, the agencyALEA may charge an additional fee to
+49 recover the cost of producing and issuing photo driver
+50 licenses and photo nondriver identification cards. The fee may
+51 not exceed ten cents ($.10) ($0.10) over the actual cost of
+52 producing and issuing the license or card, including the cost
+53 of materials, labor costs, telecommunications costs, computer
+54 costs, postage, and any other costs incurred in producing and
+55 issuing a license or card.
+56 (c)(1) ALEA shall provide a method for an individual to
+Page 2
+
+(c)(1) ALEA shall provide a method for an individual to
+HB66 INTRODUCED
+57 voluntarily designate on his or her driver license or
+58 nondriver identification card that the individual has been
+59 diagnosed with an invisible medical condition. ALEA shall
+60 create a discrete symbol depicting the state flower, as
+61 designated in Section 1-2-11(a), to place on the license or
+62 card of the individual requesting the designation. ALEA may
+63 not charge a fee solely for the designation.
+64 (2) To receive the designation, the individual shall
+65 provide proof of the diagnosis from a physician licensed to
+66 practice medicine in this state.
+67 (c)(d) A driver license issued to a qualifying student
+68 described in Section 16-28-40(b) shall be exempt from any fees
+69 under this section.
+70 (d)(e) Revenues collected under this section shall be
+71 used by the agencyALEA for the sole purpose of this program,
+72 and any excess shall revert to the State General Fund at the
+73 end of each fiscal year.
+74 (f) For the purposes of this section, the term
+75 "invisible medical condition" means a physical or mental
+76 condition that may interfere with an individual's ability to
+77 communicate with a first responder, including:
+78 (1) A communication impediment;
+79 (2) Hearing loss;
+80 (3) Blindness or a visual impairment;
+81 (4) Autism spectrum disorder;
+82 (5) Traumatic brain injury;
+83 (6) Schizophrenia; or
+84 (7) A cognitive disability."
+Page 3
+
+(7) A cognitive disability."
+HB66 INTRODUCED
+85 Section 3. This act shall become effective on October
+86 1, 2026.
+Page 4
+
+[DELETED: 6I]
